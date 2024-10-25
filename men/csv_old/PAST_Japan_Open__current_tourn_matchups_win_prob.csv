@@ -1,0 +1,993 @@
+player,player_opponent,win_prob_mean
+Taylor Fritz,Cameron Norrie,0.8546606153249741
+Taylor Fritz,Shintaro Mochizuki,0.9553755670785904
+Taylor Fritz,Tomas Martin Etcheverry,0.9355006217956543
+Taylor Fritz,Sho Shimabukuro,0.94998699426651
+Taylor Fritz,Cristian Garin,0.9354193806648254
+Taylor Fritz,Alexei Popyrin,0.922791600227356
+Taylor Fritz,Karen Khachanov,0.8944899141788483
+Taylor Fritz,Alex De Minaur,0.7691963464021683
+Taylor Fritz,Jack Draper,0.9034764915704727
+Taylor Fritz,Francisco Cerundolo,0.8890590071678162
+Taylor Fritz,Diego Schwartzman,0.9503673613071442
+Taylor Fritz,Zhizhen Zhang,0.9405714571475983
+Taylor Fritz,Hubert Hurkacz,0.8475718200206757
+Taylor Fritz,Aslan Karatsev,0.9346371740102768
+Taylor Fritz,Frances Tiafoe,0.7540225833654404
+Taylor Fritz,Tommy Paul,0.7724701166152954
+Taylor Fritz,Daniel Altmaier,0.9432147145271301
+Taylor Fritz,Mackenzie Mcdonald,0.8486458212137222
+Taylor Fritz,Max Purcell,0.9362922459840775
+Taylor Fritz,Ben Shelton,0.9135266244411469
+Taylor Fritz,Taro Daniel,0.9405568093061447
+Taylor Fritz,Jordan Thompson,0.9304647445678711
+Taylor Fritz,Alexander Zverev,0.8277485519647598
+Taylor Fritz,Felix Auger Aliassime,0.920311838388443
+Taylor Fritz,Aleksandar Vukic,0.9353871494531631
+Taylor Fritz,Sebastian Ofner,0.9535846263170242
+Taylor Fritz,Christopher Oconnell,0.9428174197673798
+Taylor Fritz,Yoshihito Nishioka,0.9332218766212463
+Taylor Fritz,Marcos Giron,0.9220570772886276
+Taylor Fritz,Yosuke Watanuki,0.9478355795145035
+Taylor Fritz,Casper Ruud,0.8927900940179825
+Cameron Norrie,Taylor Fritz,0.14533938467502594
+Cameron Norrie,Shintaro Mochizuki,0.8456529676914215
+Cameron Norrie,Tomas Martin Etcheverry,0.759577065706253
+Cameron Norrie,Sho Shimabukuro,0.8255762308835983
+Cameron Norrie,Cristian Garin,0.7571104317903519
+Cameron Norrie,Alexei Popyrin,0.7064679265022278
+Cameron Norrie,Karen Khachanov,0.5960688591003418
+Cameron Norrie,Alex De Minaur,0.366522952914238
+Cameron Norrie,Jack Draper,0.6194486171007156
+Cameron Norrie,Francisco Cerundolo,0.5881256312131882
+Cameron Norrie,Diego Schwartzman,0.8269216120243073
+Cameron Norrie,Zhizhen Zhang,0.7801550030708313
+Cameron Norrie,Hubert Hurkacz,0.5005499720573425
+Cameron Norrie,Aslan Karatsev,0.7561917155981064
+Cameron Norrie,Frances Tiafoe,0.33040906488895416
+Cameron Norrie,Tommy Paul,0.3698699027299881
+Cameron Norrie,Daniel Altmaier,0.7934851944446564
+Cameron Norrie,Mackenzie Mcdonald,0.5008527785539627
+Cameron Norrie,Max Purcell,0.7653581202030182
+Cameron Norrie,Ben Shelton,0.6740696728229523
+Cameron Norrie,Taro Daniel,0.7863601446151733
+Cameron Norrie,Jordan Thompson,0.7399230599403381
+Cameron Norrie,Alexander Zverev,0.4626476317644119
+Cameron Norrie,Felix Auger Aliassime,0.7021795362234116
+Cameron Norrie,Aleksandar Vukic,0.7609598487615585
+Cameron Norrie,Sebastian Ofner,0.8349117338657379
+Cameron Norrie,Christopher Oconnell,0.7916782796382904
+Cameron Norrie,Yoshihito Nishioka,0.7515931576490402
+Cameron Norrie,Marcos Giron,0.7109014689922333
+Cameron Norrie,Yosuke Watanuki,0.8131781667470932
+Cameron Norrie,Casper Ruud,0.5945630967617035
+Shintaro Mochizuki,Taylor Fritz,0.04462443292140961
+Shintaro Mochizuki,Cameron Norrie,0.1543470323085785
+Shintaro Mochizuki,Tomas Martin Etcheverry,0.3481823205947876
+Shintaro Mochizuki,Sho Shimabukuro,0.4372860789299011
+Shintaro Mochizuki,Cristian Garin,0.32055386900901794
+Shintaro Mochizuki,Alexei Popyrin,0.272961288690567
+Shintaro Mochizuki,Karen Khachanov,0.19745191931724548
+Shintaro Mochizuki,Alex De Minaur,0.10891996324062347
+Shintaro Mochizuki,Jack Draper,0.19740688800811768
+Shintaro Mochizuki,Francisco Cerundolo,0.20078858733177185
+Shintaro Mochizuki,Diego Schwartzman,0.48034246265888214
+Shintaro Mochizuki,Zhizhen Zhang,0.35023950040340424
+Shintaro Mochizuki,Hubert Hurkacz,0.15505163371562958
+Shintaro Mochizuki,Aslan Karatsev,0.3250391334295273
+Shintaro Mochizuki,Frances Tiafoe,0.09309422969818115
+Shintaro Mochizuki,Tommy Paul,0.1085936427116394
+Shintaro Mochizuki,Daniel Altmaier,0.3834466189146042
+Shintaro Mochizuki,Mackenzie Mcdonald,0.15646883845329285
+Shintaro Mochizuki,Max Purcell,0.32837219536304474
+Shintaro Mochizuki,Ben Shelton,0.25043609738349915
+Shintaro Mochizuki,Taro Daniel,0.37066343426704407
+Shintaro Mochizuki,Jordan Thompson,0.3096145987510681
+Shintaro Mochizuki,Alexander Zverev,0.14029020071029663
+Shintaro Mochizuki,Felix Auger Aliassime,0.2768465280532837
+Shintaro Mochizuki,Aleksandar Vukic,0.32939690351486206
+Shintaro Mochizuki,Sebastian Ofner,0.4679727852344513
+Shintaro Mochizuki,Christopher Oconnell,0.39204251766204834
+Shintaro Mochizuki,Yoshihito Nishioka,0.329731822013855
+Shintaro Mochizuki,Marcos Giron,0.29239845275878906
+Shintaro Mochizuki,Yosuke Watanuki,0.4026894271373749
+Shintaro Mochizuki,Casper Ruud,0.2032463103532791
+Tomas Martin Etcheverry,Taylor Fritz,0.0644993782043457
+Tomas Martin Etcheverry,Cameron Norrie,0.24042293429374695
+Tomas Martin Etcheverry,Shintaro Mochizuki,0.6518176794052124
+Tomas Martin Etcheverry,Sho Shimabukuro,0.6049545556306839
+Tomas Martin Etcheverry,Cristian Garin,0.47701382637023926
+Tomas Martin Etcheverry,Alexei Popyrin,0.4189428240060806
+Tomas Martin Etcheverry,Karen Khachanov,0.3085804283618927
+Tomas Martin Etcheverry,Alex De Minaur,0.1625325083732605
+Tomas Martin Etcheverry,Jack Draper,0.31061355769634247
+Tomas Martin Etcheverry,Francisco Cerundolo,0.31217892467975616
+Tomas Martin Etcheverry,Diego Schwartzman,0.6220934391021729
+Tomas Martin Etcheverry,Zhizhen Zhang,0.5111198127269745
+Tomas Martin Etcheverry,Hubert Hurkacz,0.24160514771938324
+Tomas Martin Etcheverry,Aslan Karatsev,0.47942639887332916
+Tomas Martin Etcheverry,Frances Tiafoe,0.1438482403755188
+Tomas Martin Etcheverry,Tommy Paul,0.16336612403392792
+Tomas Martin Etcheverry,Daniel Altmaier,0.5435380786657333
+Tomas Martin Etcheverry,Mackenzie Mcdonald,0.24203093349933624
+Tomas Martin Etcheverry,Max Purcell,0.4859880208969116
+Tomas Martin Etcheverry,Ben Shelton,0.3852331042289734
+Tomas Martin Etcheverry,Taro Daniel,0.5284703373908997
+Tomas Martin Etcheverry,Jordan Thompson,0.4617934823036194
+Tomas Martin Etcheverry,Alexander Zverev,0.21539632976055145
+Tomas Martin Etcheverry,Felix Auger Aliassime,0.4195052534341812
+Tomas Martin Etcheverry,Aleksandar Vukic,0.4837901294231415
+Tomas Martin Etcheverry,Sebastian Ofner,0.6273219883441925
+Tomas Martin Etcheverry,Christopher Oconnell,0.5480716824531555
+Tomas Martin Etcheverry,Yoshihito Nishioka,0.47996659576892853
+Tomas Martin Etcheverry,Marcos Giron,0.43763042986392975
+Tomas Martin Etcheverry,Yosuke Watanuki,0.5721578001976013
+Tomas Martin Etcheverry,Casper Ruud,0.3159831762313843
+Sho Shimabukuro,Taylor Fritz,0.05001300573348999
+Sho Shimabukuro,Cameron Norrie,0.17442376911640167
+Sho Shimabukuro,Shintaro Mochizuki,0.5627139210700989
+Sho Shimabukuro,Tomas Martin Etcheverry,0.3950454443693161
+Sho Shimabukuro,Cristian Garin,0.3649969696998596
+Sho Shimabukuro,Alexei Popyrin,0.31120580434799194
+Sho Shimabukuro,Karen Khachanov,0.22237910330295563
+Sho Shimabukuro,Alex De Minaur,0.12140367925167084
+Sho Shimabukuro,Jack Draper,0.2242753803730011
+Sho Shimabukuro,Francisco Cerundolo,0.2253236025571823
+Sho Shimabukuro,Diego Schwartzman,0.5368379950523376
+Sho Shimabukuro,Zhizhen Zhang,0.40108147263526917
+Sho Shimabukuro,Hubert Hurkacz,0.17485357820987701
+Sho Shimabukuro,Aslan Karatsev,0.36896181106567383
+Sho Shimabukuro,Frances Tiafoe,0.10446235537528992
+Sho Shimabukuro,Tommy Paul,0.12146332859992981
+Sho Shimabukuro,Daniel Altmaier,0.43712902069091797
+Sho Shimabukuro,Mackenzie Mcdonald,0.1755191534757614
+Sho Shimabukuro,Max Purcell,0.3714735507965088
+Sho Shimabukuro,Ben Shelton,0.28587111830711365
+Sho Shimabukuro,Taro Daniel,0.4188312292098999
+Sho Shimabukuro,Jordan Thompson,0.35172462463378906
+Sho Shimabukuro,Alexander Zverev,0.15723957121372223
+Sho Shimabukuro,Felix Auger Aliassime,0.3148612082004547
+Sho Shimabukuro,Aleksandar Vukic,0.37292973697185516
+Sho Shimabukuro,Sebastian Ofner,0.5305064022541046
+Sho Shimabukuro,Christopher Oconnell,0.44527527689933777
+Sho Shimabukuro,Yoshihito Nishioka,0.373953640460968
+Sho Shimabukuro,Marcos Giron,0.33337050676345825
+Sho Shimabukuro,Yosuke Watanuki,0.4604727774858475
+Sho Shimabukuro,Casper Ruud,0.22802165150642395
+Cristian Garin,Taylor Fritz,0.06458061933517456
+Cristian Garin,Cameron Norrie,0.24288956820964813
+Cristian Garin,Shintaro Mochizuki,0.6794461309909821
+Cristian Garin,Tomas Martin Etcheverry,0.5229861736297607
+Cristian Garin,Sho Shimabukuro,0.6350030303001404
+Cristian Garin,Alexei Popyrin,0.43295228481292725
+Cristian Garin,Karen Khachanov,0.31411273777484894
+Cristian Garin,Alex De Minaur,0.16353365778923035
+Cristian Garin,Jack Draper,0.3159555494785309
+Cristian Garin,Francisco Cerundolo,0.3179248571395874
+Cristian Garin,Diego Schwartzman,0.6489524096250534
+Cristian Garin,Zhizhen Zhang,0.5390428602695465
+Cristian Garin,Hubert Hurkacz,0.24568791687488556
+Cristian Garin,Aslan Karatsev,0.5024850070476532
+Cristian Garin,Frances Tiafoe,0.14264234900474548
+Cristian Garin,Tommy Paul,0.1650506854057312
+Cristian Garin,Daniel Altmaier,0.5714822709560394
+Cristian Garin,Mackenzie Mcdonald,0.24631983041763306
+Cristian Garin,Max Purcell,0.5123841166496277
+Cristian Garin,Ben Shelton,0.3947436809539795
+Cristian Garin,Taro Daniel,0.55588598549366
+Cristian Garin,Jordan Thompson,0.480931356549263
+Cristian Garin,Alexander Zverev,0.21767593920230865
+Cristian Garin,Felix Auger Aliassime,0.43026013672351837
+Cristian Garin,Aleksandar Vukic,0.5084362328052521
+Cristian Garin,Sebastian Ofner,0.6560890376567841
+Cristian Garin,Christopher Oconnell,0.5737881511449814
+Cristian Garin,Yoshihito Nishioka,0.5023992657661438
+Cristian Garin,Marcos Giron,0.4537373483181
+Cristian Garin,Yosuke Watanuki,0.6033746302127838
+Cristian Garin,Casper Ruud,0.321566641330719
+Alexei Popyrin,Taylor Fritz,0.07720839977264404
+Alexei Popyrin,Cameron Norrie,0.2935320734977722
+Alexei Popyrin,Shintaro Mochizuki,0.727038711309433
+Alexei Popyrin,Tomas Martin Etcheverry,0.5810571759939194
+Alexei Popyrin,Sho Shimabukuro,0.6887941956520081
+Alexei Popyrin,Cristian Garin,0.5670477151870728
+Alexei Popyrin,Karen Khachanov,0.37540146708488464
+Alexei Popyrin,Alex De Minaur,0.19982711970806122
+Alexei Popyrin,Jack Draper,0.3795790374279022
+Alexei Popyrin,Francisco Cerundolo,0.37962494790554047
+Alexei Popyrin,Diego Schwartzman,0.6991029679775238
+Alexei Popyrin,Zhizhen Zhang,0.6050215065479279
+Alexei Popyrin,Hubert Hurkacz,0.29586464166641235
+Alexei Popyrin,Aslan Karatsev,0.5679759830236435
+Alexei Popyrin,Frances Tiafoe,0.1729162335395813
+Alexei Popyrin,Tommy Paul,0.20160700380802155
+Alexei Popyrin,Daniel Altmaier,0.6316317617893219
+Alexei Popyrin,Mackenzie Mcdonald,0.2957327365875244
+Alexei Popyrin,Max Purcell,0.5819025188684464
+Alexei Popyrin,Ben Shelton,0.46344220638275146
+Alexei Popyrin,Taro Daniel,0.6188316941261292
+Alexei Popyrin,Jordan Thompson,0.5473286658525467
+Alexei Popyrin,Alexander Zverev,0.26367658376693726
+Alexei Popyrin,Felix Auger Aliassime,0.4980299174785614
+Alexei Popyrin,Aleksandar Vukic,0.5766627490520477
+Alexei Popyrin,Sebastian Ofner,0.706793487071991
+Alexei Popyrin,Christopher Oconnell,0.6322548687458038
+Alexei Popyrin,Yoshihito Nishioka,0.5654702335596085
+Alexei Popyrin,Marcos Giron,0.516494557261467
+Alexei Popyrin,Yosuke Watanuki,0.6624548584222794
+Alexei Popyrin,Casper Ruud,0.38544270396232605
+Karen Khachanov,Taylor Fritz,0.10551008582115173
+Karen Khachanov,Cameron Norrie,0.4039311408996582
+Karen Khachanov,Shintaro Mochizuki,0.8025480806827545
+Karen Khachanov,Tomas Martin Etcheverry,0.6914195716381073
+Karen Khachanov,Sho Shimabukuro,0.7776208966970444
+Karen Khachanov,Cristian Garin,0.6858872622251511
+Karen Khachanov,Alexei Popyrin,0.6245985329151154
+Karen Khachanov,Alex De Minaur,0.27622973918914795
+Karen Khachanov,Jack Draper,0.5190862864255905
+Karen Khachanov,Francisco Cerundolo,0.49728135764598846
+Karen Khachanov,Diego Schwartzman,0.7803863137960434
+Karen Khachanov,Zhizhen Zhang,0.7136530876159668
+Karen Khachanov,Hubert Hurkacz,0.39973805844783783
+Karen Khachanov,Aslan Karatsev,0.6849701255559921
+Karen Khachanov,Frances Tiafoe,0.24089333415031433
+Karen Khachanov,Tommy Paul,0.27876099944114685
+Karen Khachanov,Daniel Altmaier,0.7336085140705109
+Karen Khachanov,Mackenzie Mcdonald,0.40010198950767517
+Karen Khachanov,Max Purcell,0.694497287273407
+Karen Khachanov,Ben Shelton,0.5868804156780243
+Karen Khachanov,Taro Daniel,0.720467135310173
+Karen Khachanov,Jordan Thompson,0.6654839217662811
+Karen Khachanov,Alexander Zverev,0.3613831251859665
+Karen Khachanov,Felix Auger Aliassime,0.6193972676992416
+Karen Khachanov,Aleksandar Vukic,0.6899630576372147
+Karen Khachanov,Sebastian Ofner,0.7899827510118484
+Karen Khachanov,Christopher Oconnell,0.7319208383560181
+Karen Khachanov,Yoshihito Nishioka,0.6793994456529617
+Karen Khachanov,Marcos Giron,0.6319507658481598
+Karen Khachanov,Yosuke Watanuki,0.7575385570526123
+Karen Khachanov,Casper Ruud,0.5023371577262878
+Alex De Minaur,Taylor Fritz,0.23080365359783173
+Alex De Minaur,Cameron Norrie,0.633477047085762
+Alex De Minaur,Shintaro Mochizuki,0.8910800367593765
+Alex De Minaur,Tomas Martin Etcheverry,0.8374674916267395
+Alex De Minaur,Sho Shimabukuro,0.8785963207483292
+Alex De Minaur,Cristian Garin,0.8364663422107697
+Alex De Minaur,Alexei Popyrin,0.8001728802919388
+Alex De Minaur,Karen Khachanov,0.723770260810852
+Alex De Minaur,Jack Draper,0.7412169873714447
+Alex De Minaur,Francisco Cerundolo,0.7137441486120224
+Alex De Minaur,Diego Schwartzman,0.8795656859874725
+Alex De Minaur,Zhizhen Zhang,0.8504881411790848
+Alex De Minaur,Hubert Hurkacz,0.6276555061340332
+Alex De Minaur,Aslan Karatsev,0.8350581675767899
+Alex De Minaur,Frances Tiafoe,0.4670958071947098
+Alex De Minaur,Tommy Paul,0.5036258399486542
+Alex De Minaur,Daniel Altmaier,0.8589121401309967
+Alex De Minaur,Mackenzie Mcdonald,0.6300218999385834
+Alex De Minaur,Max Purcell,0.8409536629915237
+Alex De Minaur,Ben Shelton,0.7744191288948059
+Alex De Minaur,Taro Daniel,0.8532879054546356
+Alex De Minaur,Jordan Thompson,0.8238192200660706
+Alex De Minaur,Alexander Zverev,0.5889818072319031
+Alex De Minaur,Felix Auger Aliassime,0.7916697710752487
+Alex De Minaur,Aleksandar Vukic,0.8374050110578537
+Alex De Minaur,Sebastian Ofner,0.8868460953235626
+Alex De Minaur,Christopher Oconnell,0.857707142829895
+Alex De Minaur,Yoshihito Nishioka,0.8309888243675232
+Alex De Minaur,Marcos Giron,0.8002496361732483
+Alex De Minaur,Yosuke Watanuki,0.8719606697559357
+Alex De Minaur,Casper Ruud,0.7220375686883926
+Jack Draper,Taylor Fritz,0.09652350842952728
+Jack Draper,Cameron Norrie,0.38055138289928436
+Jack Draper,Shintaro Mochizuki,0.8025931119918823
+Jack Draper,Tomas Martin Etcheverry,0.6893864423036575
+Jack Draper,Sho Shimabukuro,0.7757246196269989
+Jack Draper,Cristian Garin,0.6840444505214691
+Jack Draper,Alexei Popyrin,0.6204209625720978
+Jack Draper,Karen Khachanov,0.4809137135744095
+Jack Draper,Alex De Minaur,0.2587830126285553
+Jack Draper,Francisco Cerundolo,0.4814864695072174
+Jack Draper,Diego Schwartzman,0.7805779874324799
+Jack Draper,Zhizhen Zhang,0.7126160860061646
+Jack Draper,Hubert Hurkacz,0.3765845000743866
+Jack Draper,Aslan Karatsev,0.6827973574399948
+Jack Draper,Frances Tiafoe,0.22436311841011047
+Jack Draper,Tommy Paul,0.26120200753211975
+Jack Draper,Daniel Altmaier,0.7315867245197296
+Jack Draper,Mackenzie Mcdonald,0.37703582644462585
+Jack Draper,Max Purcell,0.6935028433799744
+Jack Draper,Ben Shelton,0.5791741162538528
+Jack Draper,Taro Daniel,0.7180839478969574
+Jack Draper,Jordan Thompson,0.6647718548774719
+Jack Draper,Alexander Zverev,0.33864617347717285
+Jack Draper,Felix Auger Aliassime,0.6141231954097748
+Jack Draper,Aleksandar Vukic,0.6874038577079773
+Jack Draper,Sebastian Ofner,0.7897097319364548
+Jack Draper,Christopher Oconnell,0.7299203276634216
+Jack Draper,Yoshihito Nishioka,0.6768763959407806
+Jack Draper,Marcos Giron,0.6276062279939651
+Jack Draper,Yosuke Watanuki,0.7554028928279877
+Jack Draper,Casper Ruud,0.4890495240688324
+Francisco Cerundolo,Taylor Fritz,0.11094099283218384
+Francisco Cerundolo,Cameron Norrie,0.41187436878681183
+Francisco Cerundolo,Shintaro Mochizuki,0.7992114126682281
+Francisco Cerundolo,Tomas Martin Etcheverry,0.6878210753202438
+Francisco Cerundolo,Sho Shimabukuro,0.7746763974428177
+Francisco Cerundolo,Cristian Garin,0.6820751428604126
+Francisco Cerundolo,Alexei Popyrin,0.6203750520944595
+Francisco Cerundolo,Karen Khachanov,0.5027186423540115
+Francisco Cerundolo,Alex De Minaur,0.2862558513879776
+Francisco Cerundolo,Jack Draper,0.5185135304927826
+Francisco Cerundolo,Diego Schwartzman,0.7762216925621033
+Francisco Cerundolo,Zhizhen Zhang,0.7097876816987991
+Francisco Cerundolo,Hubert Hurkacz,0.41238008439540863
+Francisco Cerundolo,Aslan Karatsev,0.6813845634460449
+Francisco Cerundolo,Frances Tiafoe,0.252368688583374
+Francisco Cerundolo,Tommy Paul,0.2888548672199249
+Francisco Cerundolo,Daniel Altmaier,0.7309018671512604
+Francisco Cerundolo,Mackenzie Mcdonald,0.4130210727453232
+Francisco Cerundolo,Max Purcell,0.6916228830814362
+Francisco Cerundolo,Ben Shelton,0.583109125494957
+Francisco Cerundolo,Taro Daniel,0.7201326638460159
+Francisco Cerundolo,Jordan Thompson,0.6618603467941284
+Francisco Cerundolo,Alexander Zverev,0.3763793706893921
+Francisco Cerundolo,Felix Auger Aliassime,0.6161470115184784
+Francisco Cerundolo,Aleksandar Vukic,0.6876184344291687
+Francisco Cerundolo,Sebastian Ofner,0.7859403192996979
+Francisco Cerundolo,Christopher Oconnell,0.730485200881958
+Francisco Cerundolo,Yoshihito Nishioka,0.678903728723526
+Francisco Cerundolo,Marcos Giron,0.6281107068061829
+Francisco Cerundolo,Yosuke Watanuki,0.7569844722747803
+Francisco Cerundolo,Casper Ruud,0.5049955695867538
+Diego Schwartzman,Taylor Fritz,0.049632638692855835
+Diego Schwartzman,Cameron Norrie,0.17307838797569275
+Diego Schwartzman,Shintaro Mochizuki,0.5196575373411179
+Diego Schwartzman,Tomas Martin Etcheverry,0.37790656089782715
+Diego Schwartzman,Sho Shimabukuro,0.46316200494766235
+Diego Schwartzman,Cristian Garin,0.3510475903749466
+Diego Schwartzman,Alexei Popyrin,0.3008970320224762
+Diego Schwartzman,Karen Khachanov,0.2196136862039566
+Diego Schwartzman,Alex De Minaur,0.12043431401252747
+Diego Schwartzman,Jack Draper,0.21942201256752014
+Diego Schwartzman,Francisco Cerundolo,0.22377830743789673
+Diego Schwartzman,Zhizhen Zhang,0.38094405829906464
+Diego Schwartzman,Hubert Hurkacz,0.17280562222003937
+Diego Schwartzman,Aslan Karatsev,0.35561567544937134
+Diego Schwartzman,Frances Tiafoe,0.1036047488451004
+Diego Schwartzman,Tommy Paul,0.12012647092342377
+Diego Schwartzman,Daniel Altmaier,0.4118027091026306
+Diego Schwartzman,Mackenzie Mcdonald,0.17339080572128296
+Diego Schwartzman,Max Purcell,0.3588147610425949
+Diego Schwartzman,Ben Shelton,0.27594345808029175
+Diego Schwartzman,Taro Daniel,0.401903435587883
+Diego Schwartzman,Jordan Thompson,0.3393605053424835
+Diego Schwartzman,Alexander Zverev,0.1559162586927414
+Diego Schwartzman,Felix Auger Aliassime,0.3042926788330078
+Diego Schwartzman,Aleksandar Vukic,0.3598329722881317
+Diego Schwartzman,Sebastian Ofner,0.49168314039707184
+Diego Schwartzman,Christopher Oconnell,0.42169976234436035
+Diego Schwartzman,Yoshihito Nishioka,0.35996587574481964
+Diego Schwartzman,Marcos Giron,0.3211406171321869
+Diego Schwartzman,Yosuke Watanuki,0.4293456971645355
+Diego Schwartzman,Casper Ruud,0.22659988701343536
+Zhizhen Zhang,Taylor Fritz,0.05942854285240173
+Zhizhen Zhang,Cameron Norrie,0.2198449969291687
+Zhizhen Zhang,Shintaro Mochizuki,0.6497604995965958
+Zhizhen Zhang,Tomas Martin Etcheverry,0.4888801872730255
+Zhizhen Zhang,Sho Shimabukuro,0.5989185273647308
+Zhizhen Zhang,Cristian Garin,0.4609571397304535
+Zhizhen Zhang,Alexei Popyrin,0.39497849345207214
+Zhizhen Zhang,Karen Khachanov,0.2863469123840332
+Zhizhen Zhang,Alex De Minaur,0.14951185882091522
+Zhizhen Zhang,Jack Draper,0.28738391399383545
+Zhizhen Zhang,Francisco Cerundolo,0.29021231830120087
+Zhizhen Zhang,Diego Schwartzman,0.6190559417009354
+Zhizhen Zhang,Hubert Hurkacz,0.222079336643219
+Zhizhen Zhang,Aslan Karatsev,0.4636811167001724
+Zhizhen Zhang,Frances Tiafoe,0.1312226951122284
+Zhizhen Zhang,Tommy Paul,0.1502581089735031
+Zhizhen Zhang,Daniel Altmaier,0.534872904419899
+Zhizhen Zhang,Mackenzie Mcdonald,0.22265292704105377
+Zhizhen Zhang,Max Purcell,0.4704495966434479
+Zhizhen Zhang,Ben Shelton,0.3621697574853897
+Zhizhen Zhang,Taro Daniel,0.5187022089958191
+Zhizhen Zhang,Jordan Thompson,0.44181881844997406
+Zhizhen Zhang,Alexander Zverev,0.1970224380493164
+Zhizhen Zhang,Felix Auger Aliassime,0.39610932767391205
+Zhizhen Zhang,Aleksandar Vukic,0.4668830633163452
+Zhizhen Zhang,Sebastian Ofner,0.6242119669914246
+Zhizhen Zhang,Christopher Oconnell,0.5383647978305817
+Zhizhen Zhang,Yoshihito Nishioka,0.4653811454772949
+Zhizhen Zhang,Marcos Giron,0.4173630326986313
+Zhizhen Zhang,Yosuke Watanuki,0.565624013543129
+Zhizhen Zhang,Casper Ruud,0.2937028706073761
+Hubert Hurkacz,Taylor Fritz,0.15242817997932434
+Hubert Hurkacz,Cameron Norrie,0.49945002794265747
+Hubert Hurkacz,Shintaro Mochizuki,0.8449483662843704
+Hubert Hurkacz,Tomas Martin Etcheverry,0.7583948522806168
+Hubert Hurkacz,Sho Shimabukuro,0.825146421790123
+Hubert Hurkacz,Cristian Garin,0.7543120831251144
+Hubert Hurkacz,Alexei Popyrin,0.7041353583335876
+Hubert Hurkacz,Karen Khachanov,0.6002619415521622
+Hubert Hurkacz,Alex De Minaur,0.3723444938659668
+Hubert Hurkacz,Jack Draper,0.6234154999256134
+Hubert Hurkacz,Francisco Cerundolo,0.5876199156045914
+Hubert Hurkacz,Diego Schwartzman,0.8271943777799606
+Hubert Hurkacz,Zhizhen Zhang,0.777920663356781
+Hubert Hurkacz,Aslan Karatsev,0.7524995505809784
+Hubert Hurkacz,Frances Tiafoe,0.33322617411613464
+Hubert Hurkacz,Tommy Paul,0.37536942958831787
+Hubert Hurkacz,Daniel Altmaier,0.7938696593046188
+Hubert Hurkacz,Mackenzie Mcdonald,0.5008372664451599
+Hubert Hurkacz,Max Purcell,0.7612803280353546
+Hubert Hurkacz,Ben Shelton,0.6703452169895172
+Hubert Hurkacz,Taro Daniel,0.7822379022836685
+Hubert Hurkacz,Jordan Thompson,0.7373879849910736
+Hubert Hurkacz,Alexander Zverev,0.46316687762737274
+Hubert Hurkacz,Felix Auger Aliassime,0.696169376373291
+Hubert Hurkacz,Aleksandar Vukic,0.7560485601425171
+Hubert Hurkacz,Sebastian Ofner,0.8351660072803497
+Hubert Hurkacz,Christopher Oconnell,0.7925007790327072
+Hubert Hurkacz,Yoshihito Nishioka,0.7471823841333389
+Hubert Hurkacz,Marcos Giron,0.7064646631479263
+Hubert Hurkacz,Yosuke Watanuki,0.8133191615343094
+Hubert Hurkacz,Casper Ruud,0.5944094657897949
+Aslan Karatsev,Taylor Fritz,0.0653628259897232
+Aslan Karatsev,Cameron Norrie,0.24380828440189362
+Aslan Karatsev,Shintaro Mochizuki,0.6749608665704727
+Aslan Karatsev,Tomas Martin Etcheverry,0.5205736011266708
+Aslan Karatsev,Sho Shimabukuro,0.6310381889343262
+Aslan Karatsev,Cristian Garin,0.4975149929523468
+Aslan Karatsev,Alexei Popyrin,0.4320240169763565
+Aslan Karatsev,Karen Khachanov,0.3150298744440079
+Aslan Karatsev,Alex De Minaur,0.16494183242321014
+Aslan Karatsev,Jack Draper,0.3172026425600052
+Aslan Karatsev,Francisco Cerundolo,0.3186154365539551
+Aslan Karatsev,Diego Schwartzman,0.6443843245506287
+Aslan Karatsev,Zhizhen Zhang,0.5363188832998276
+Aslan Karatsev,Hubert Hurkacz,0.2475004494190216
+Aslan Karatsev,Frances Tiafoe,0.14392074942588806
+Aslan Karatsev,Tommy Paul,0.16645823419094086
+Aslan Karatsev,Daniel Altmaier,0.5682425796985626
+Aslan Karatsev,Mackenzie Mcdonald,0.24816395342350006
+Aslan Karatsev,Max Purcell,0.5101501941680908
+Aslan Karatsev,Ben Shelton,0.3948138952255249
+Aslan Karatsev,Taro Daniel,0.5527198761701584
+Aslan Karatsev,Jordan Thompson,0.47924113273620605
+Aslan Karatsev,Alexander Zverev,0.21917767822742462
+Aslan Karatsev,Felix Auger Aliassime,0.43021559715270996
+Aslan Karatsev,Aleksandar Vukic,0.5062124729156494
+Aslan Karatsev,Sebastian Ofner,0.6515670418739319
+Aslan Karatsev,Christopher Oconnell,0.5700525194406509
+Aslan Karatsev,Yoshihito Nishioka,0.49991101026535034
+Aslan Karatsev,Marcos Giron,0.4528543949127197
+Aslan Karatsev,Yosuke Watanuki,0.6004516035318375
+Aslan Karatsev,Casper Ruud,0.3221445679664612
+Frances Tiafoe,Taylor Fritz,0.24597741663455963
+Frances Tiafoe,Cameron Norrie,0.6695909351110458
+Frances Tiafoe,Shintaro Mochizuki,0.9069057703018188
+Frances Tiafoe,Tomas Martin Etcheverry,0.8561517596244812
+Frances Tiafoe,Sho Shimabukuro,0.8955376446247101
+Frances Tiafoe,Cristian Garin,0.8573576509952545
+Frances Tiafoe,Alexei Popyrin,0.8270837664604187
+Frances Tiafoe,Karen Khachanov,0.7591066658496857
+Frances Tiafoe,Alex De Minaur,0.5329041928052902
+Frances Tiafoe,Jack Draper,0.7756368815898895
+Frances Tiafoe,Francisco Cerundolo,0.747631311416626
+Frances Tiafoe,Diego Schwartzman,0.8963952511548996
+Frances Tiafoe,Zhizhen Zhang,0.8687773048877716
+Frances Tiafoe,Hubert Hurkacz,0.6667738258838654
+Frances Tiafoe,Aslan Karatsev,0.8560792505741119
+Frances Tiafoe,Tommy Paul,0.5365887135267258
+Frances Tiafoe,Daniel Altmaier,0.8763798326253891
+Frances Tiafoe,Mackenzie Mcdonald,0.6691915094852448
+Frances Tiafoe,Max Purcell,0.8615414500236511
+Frances Tiafoe,Ben Shelton,0.8048578947782516
+Frances Tiafoe,Taro Daniel,0.871865376830101
+Frances Tiafoe,Jordan Thompson,0.8474615812301636
+Frances Tiafoe,Alexander Zverev,0.6271781325340271
+Frances Tiafoe,Felix Auger Aliassime,0.820611372590065
+Frances Tiafoe,Aleksandar Vukic,0.859273761510849
+Frances Tiafoe,Sebastian Ofner,0.9020160287618637
+Frances Tiafoe,Christopher Oconnell,0.8752467185258865
+Frances Tiafoe,Yoshihito Nishioka,0.8537744432687759
+Frances Tiafoe,Marcos Giron,0.8273431211709976
+Frances Tiafoe,Yosuke Watanuki,0.8885701298713684
+Frances Tiafoe,Casper Ruud,0.7545763701200485
+Tommy Paul,Taylor Fritz,0.2275298833847046
+Tommy Paul,Cameron Norrie,0.6301300972700119
+Tommy Paul,Shintaro Mochizuki,0.8914063572883606
+Tommy Paul,Tomas Martin Etcheverry,0.8366338759660721
+Tommy Paul,Sho Shimabukuro,0.8785366714000702
+Tommy Paul,Cristian Garin,0.8349493145942688
+Tommy Paul,Alexei Popyrin,0.7983929961919785
+Tommy Paul,Karen Khachanov,0.7212390005588531
+Tommy Paul,Alex De Minaur,0.4963741600513458
+Tommy Paul,Jack Draper,0.7387979924678802
+Tommy Paul,Francisco Cerundolo,0.7111451327800751
+Tommy Paul,Diego Schwartzman,0.8798735290765762
+Tommy Paul,Zhizhen Zhang,0.8497418910264969
+Tommy Paul,Hubert Hurkacz,0.6246305704116821
+Tommy Paul,Aslan Karatsev,0.8335417658090591
+Tommy Paul,Frances Tiafoe,0.46341128647327423
+Tommy Paul,Daniel Altmaier,0.8582035303115845
+Tommy Paul,Mackenzie Mcdonald,0.6270123422145844
+Tommy Paul,Max Purcell,0.8395565301179886
+Tommy Paul,Ben Shelton,0.7724699378013611
+Tommy Paul,Taro Daniel,0.8525773882865906
+Tommy Paul,Jordan Thompson,0.8221999853849411
+Tommy Paul,Alexander Zverev,0.5863521695137024
+Tommy Paul,Felix Auger Aliassime,0.7898253947496414
+Tommy Paul,Aleksandar Vukic,0.8358784466981888
+Tommy Paul,Sebastian Ofner,0.8868473917245865
+Tommy Paul,Christopher Oconnell,0.8569912314414978
+Tommy Paul,Yoshihito Nishioka,0.8294185400009155
+Tommy Paul,Marcos Giron,0.798468142747879
+Tommy Paul,Yosuke Watanuki,0.8713307678699493
+Tommy Paul,Casper Ruud,0.7194841504096985
+Daniel Altmaier,Taylor Fritz,0.05678528547286987
+Daniel Altmaier,Cameron Norrie,0.20651480555534363
+Daniel Altmaier,Shintaro Mochizuki,0.6165533810853958
+Daniel Altmaier,Tomas Martin Etcheverry,0.45646192133426666
+Daniel Altmaier,Sho Shimabukuro,0.562870979309082
+Daniel Altmaier,Cristian Garin,0.42851772904396057
+Daniel Altmaier,Alexei Popyrin,0.3683682382106781
+Daniel Altmaier,Karen Khachanov,0.26639148592948914
+Daniel Altmaier,Alex De Minaur,0.1410878598690033
+Daniel Altmaier,Jack Draper,0.2684132754802704
+Daniel Altmaier,Francisco Cerundolo,0.2690981328487396
+Daniel Altmaier,Diego Schwartzman,0.5881972908973694
+Daniel Altmaier,Zhizhen Zhang,0.465127095580101
+Daniel Altmaier,Hubert Hurkacz,0.20613034069538116
+Daniel Altmaier,Aslan Karatsev,0.4317574203014374
+Daniel Altmaier,Frances Tiafoe,0.1236201673746109
+Daniel Altmaier,Tommy Paul,0.14179646968841553
+Daniel Altmaier,Mackenzie Mcdonald,0.20664775371551514
+Daniel Altmaier,Max Purcell,0.4353855401277542
+Daniel Altmaier,Ben Shelton,0.3381066173315048
+Daniel Altmaier,Taro Daniel,0.48346997797489166
+Daniel Altmaier,Jordan Thompson,0.4118986874818802
+Daniel Altmaier,Alexander Zverev,0.1857549250125885
+Daniel Altmaier,Felix Auger Aliassime,0.3711177706718445
+Daniel Altmaier,Aleksandar Vukic,0.43502672016620636
+Daniel Altmaier,Sebastian Ofner,0.5888674408197403
+Daniel Altmaier,Christopher Oconnell,0.5059134215116501
+Daniel Altmaier,Yoshihito Nishioka,0.4350768178701401
+Daniel Altmaier,Marcos Giron,0.3918969929218292
+Daniel Altmaier,Yosuke Watanuki,0.5295991152524948
+Daniel Altmaier,Casper Ruud,0.27249331772327423
+Mackenzie Mcdonald,Taylor Fritz,0.15135417878627777
+Mackenzie Mcdonald,Cameron Norrie,0.4991472214460373
+Mackenzie Mcdonald,Shintaro Mochizuki,0.8435311615467072
+Mackenzie Mcdonald,Tomas Martin Etcheverry,0.7579690665006638
+Mackenzie Mcdonald,Sho Shimabukuro,0.8244808465242386
+Mackenzie Mcdonald,Cristian Garin,0.7536801695823669
+Mackenzie Mcdonald,Alexei Popyrin,0.7042672634124756
+Mackenzie Mcdonald,Karen Khachanov,0.5998980104923248
+Mackenzie Mcdonald,Alex De Minaur,0.3699781000614166
+Mackenzie Mcdonald,Jack Draper,0.6229641735553741
+Mackenzie Mcdonald,Francisco Cerundolo,0.5869789272546768
+Mackenzie Mcdonald,Diego Schwartzman,0.826609194278717
+Mackenzie Mcdonald,Zhizhen Zhang,0.7773470729589462
+Mackenzie Mcdonald,Hubert Hurkacz,0.4991627335548401
+Mackenzie Mcdonald,Aslan Karatsev,0.7518360465764999
+Mackenzie Mcdonald,Frances Tiafoe,0.33080849051475525
+Mackenzie Mcdonald,Tommy Paul,0.37298765778541565
+Mackenzie Mcdonald,Daniel Altmaier,0.7933522462844849
+Mackenzie Mcdonald,Max Purcell,0.7605133950710297
+Mackenzie Mcdonald,Ben Shelton,0.6703704595565796
+Mackenzie Mcdonald,Taro Daniel,0.7815386056900024
+Mackenzie Mcdonald,Jordan Thompson,0.7367423176765442
+Mackenzie Mcdonald,Alexander Zverev,0.4623424857854843
+Mackenzie Mcdonald,Felix Auger Aliassime,0.6952921748161316
+Mackenzie Mcdonald,Aleksandar Vukic,0.755272775888443
+Mackenzie Mcdonald,Sebastian Ofner,0.834598109126091
+Mackenzie Mcdonald,Christopher Oconnell,0.7919231802225113
+Mackenzie Mcdonald,Yoshihito Nishioka,0.7464511841535568
+Mackenzie Mcdonald,Marcos Giron,0.7057294845581055
+Mackenzie Mcdonald,Yosuke Watanuki,0.8124339133501053
+Mackenzie Mcdonald,Casper Ruud,0.5937966853380203
+Max Purcell,Taylor Fritz,0.06370775401592255
+Max Purcell,Cameron Norrie,0.2346418797969818
+Max Purcell,Shintaro Mochizuki,0.6716278046369553
+Max Purcell,Tomas Martin Etcheverry,0.5140119791030884
+Max Purcell,Sho Shimabukuro,0.6285264492034912
+Max Purcell,Cristian Garin,0.4876158833503723
+Max Purcell,Alexei Popyrin,0.41809748113155365
+Max Purcell,Karen Khachanov,0.305502712726593
+Max Purcell,Alex De Minaur,0.15904633700847626
+Max Purcell,Jack Draper,0.30649715662002563
+Max Purcell,Francisco Cerundolo,0.30837711691856384
+Max Purcell,Diego Schwartzman,0.6411852389574051
+Max Purcell,Zhizhen Zhang,0.5295504033565521
+Max Purcell,Hubert Hurkacz,0.23871967196464539
+Max Purcell,Aslan Karatsev,0.4898498058319092
+Max Purcell,Frances Tiafoe,0.13845854997634888
+Max Purcell,Tommy Paul,0.1604434698820114
+Max Purcell,Daniel Altmaier,0.5646144598722458
+Max Purcell,Mackenzie Mcdonald,0.23948660492897034
+Max Purcell,Ben Shelton,0.38389649987220764
+Max Purcell,Taro Daniel,0.5491693317890167
+Max Purcell,Jordan Thompson,0.46690112352371216
+Max Purcell,Alexander Zverev,0.21049270033836365
+Max Purcell,Felix Auger Aliassime,0.41841500997543335
+Max Purcell,Aleksandar Vukic,0.49581459164619446
+Max Purcell,Sebastian Ofner,0.6494975686073303
+Max Purcell,Christopher Oconnell,0.5666293501853943
+Max Purcell,Yoshihito Nishioka,0.48997974395751953
+Max Purcell,Marcos Giron,0.4406276047229767
+Max Purcell,Yosuke Watanuki,0.5972646772861481
+Max Purcell,Casper Ruud,0.3117011487483978
+Ben Shelton,Taylor Fritz,0.08647337555885315
+Ben Shelton,Cameron Norrie,0.32593032717704773
+Ben Shelton,Shintaro Mochizuki,0.7495639026165009
+Ben Shelton,Tomas Martin Etcheverry,0.6147668957710266
+Ben Shelton,Sho Shimabukuro,0.7141288816928864
+Ben Shelton,Cristian Garin,0.6052563190460205
+Ben Shelton,Alexei Popyrin,0.5365577936172485
+Ben Shelton,Karen Khachanov,0.4131195843219757
+Ben Shelton,Alex De Minaur,0.2255808711051941
+Ben Shelton,Jack Draper,0.42082588374614716
+Ben Shelton,Francisco Cerundolo,0.41689087450504303
+Ben Shelton,Diego Schwartzman,0.7240565419197083
+Ben Shelton,Zhizhen Zhang,0.6378302425146103
+Ben Shelton,Hubert Hurkacz,0.3296547830104828
+Ben Shelton,Aslan Karatsev,0.6051861047744751
+Ben Shelton,Frances Tiafoe,0.19514210522174835
+Ben Shelton,Tommy Paul,0.22753006219863892
+Ben Shelton,Daniel Altmaier,0.6618933826684952
+Ben Shelton,Mackenzie Mcdonald,0.3296295404434204
+Ben Shelton,Max Purcell,0.6161035001277924
+Ben Shelton,Taro Daniel,0.648046150803566
+Ben Shelton,Jordan Thompson,0.5836034417152405
+Ben Shelton,Alexander Zverev,0.29477056860923767
+Ben Shelton,Felix Auger Aliassime,0.5328722894191742
+Ben Shelton,Aleksandar Vukic,0.6115640997886658
+Ben Shelton,Sebastian Ofner,0.7311825156211853
+Ben Shelton,Christopher Oconnell,0.6615939140319824
+Ben Shelton,Yoshihito Nishioka,0.6017242074012756
+Ben Shelton,Marcos Giron,0.5471381396055222
+Ben Shelton,Yosuke Watanuki,0.6905450224876404
+Ben Shelton,Casper Ruud,0.42187556624412537
+Taro Daniel,Taylor Fritz,0.059443190693855286
+Taro Daniel,Cameron Norrie,0.21363985538482666
+Taro Daniel,Shintaro Mochizuki,0.6293365657329559
+Taro Daniel,Tomas Martin Etcheverry,0.47152966260910034
+Taro Daniel,Sho Shimabukuro,0.5811687707901001
+Taro Daniel,Cristian Garin,0.44411401450634
+Taro Daniel,Alexei Popyrin,0.38116830587387085
+Taro Daniel,Karen Khachanov,0.27953286468982697
+Taro Daniel,Alex De Minaur,0.14671209454536438
+Taro Daniel,Jack Draper,0.2819160521030426
+Taro Daniel,Francisco Cerundolo,0.27986733615398407
+Taro Daniel,Diego Schwartzman,0.598096564412117
+Taro Daniel,Zhizhen Zhang,0.4812977910041809
+Taro Daniel,Hubert Hurkacz,0.21776209771633148
+Taro Daniel,Aslan Karatsev,0.4472801238298416
+Taro Daniel,Frances Tiafoe,0.128134623169899
+Taro Daniel,Tommy Paul,0.14742261171340942
+Taro Daniel,Daniel Altmaier,0.5165300220251083
+Taro Daniel,Mackenzie Mcdonald,0.21846139430999756
+Taro Daniel,Max Purcell,0.4508306682109833
+Taro Daniel,Ben Shelton,0.351953849196434
+Taro Daniel,Jordan Thompson,0.426685094833374
+Taro Daniel,Alexander Zverev,0.19237491488456726
+Taro Daniel,Felix Auger Aliassime,0.3842175453901291
+Taro Daniel,Aleksandar Vukic,0.45024770498275757
+Taro Daniel,Sebastian Ofner,0.6046762019395828
+Taro Daniel,Christopher Oconnell,0.521121546626091
+Taro Daniel,Yoshihito Nishioka,0.45003537833690643
+Taro Daniel,Marcos Giron,0.40475597977638245
+Taro Daniel,Yosuke Watanuki,0.5477524995803833
+Taro Daniel,Casper Ruud,0.28286780416965485
+Jordan Thompson,Taylor Fritz,0.0695352554321289
+Jordan Thompson,Cameron Norrie,0.26007694005966187
+Jordan Thompson,Shintaro Mochizuki,0.6903854012489319
+Jordan Thompson,Tomas Martin Etcheverry,0.5382065176963806
+Jordan Thompson,Sho Shimabukuro,0.6482753753662109
+Jordan Thompson,Cristian Garin,0.519068643450737
+Jordan Thompson,Alexei Popyrin,0.4526713341474533
+Jordan Thompson,Karen Khachanov,0.33451607823371887
+Jordan Thompson,Alex De Minaur,0.17618077993392944
+Jordan Thompson,Jack Draper,0.3352281451225281
+Jordan Thompson,Francisco Cerundolo,0.3381396532058716
+Jordan Thompson,Diego Schwartzman,0.6606394946575165
+Jordan Thompson,Zhizhen Zhang,0.5581811815500259
+Jordan Thompson,Hubert Hurkacz,0.2626120150089264
+Jordan Thompson,Aslan Karatsev,0.520758867263794
+Jordan Thompson,Frances Tiafoe,0.15253841876983643
+Jordan Thompson,Tommy Paul,0.1778000146150589
+Jordan Thompson,Daniel Altmaier,0.5881013125181198
+Jordan Thompson,Mackenzie Mcdonald,0.2632576823234558
+Jordan Thompson,Max Purcell,0.5330988764762878
+Jordan Thompson,Ben Shelton,0.4163965582847595
+Jordan Thompson,Taro Daniel,0.573314905166626
+Jordan Thompson,Alexander Zverev,0.23293986916542053
+Jordan Thompson,Felix Auger Aliassime,0.4522608518600464
+Jordan Thompson,Aleksandar Vukic,0.5285004377365112
+Jordan Thompson,Sebastian Ofner,0.6684466153383255
+Jordan Thompson,Christopher Oconnell,0.5894618779420853
+Jordan Thompson,Yoshihito Nishioka,0.518535241484642
+Jordan Thompson,Marcos Giron,0.47378653287887573
+Jordan Thompson,Yosuke Watanuki,0.6204150021076202
+Jordan Thompson,Casper Ruud,0.34173642098903656
+Alexander Zverev,Taylor Fritz,0.17225144803524017
+Alexander Zverev,Cameron Norrie,0.5373523682355881
+Alexander Zverev,Shintaro Mochizuki,0.8597097992897034
+Alexander Zverev,Tomas Martin Etcheverry,0.7846036702394485
+Alexander Zverev,Sho Shimabukuro,0.8427604287862778
+Alexander Zverev,Cristian Garin,0.7823240607976913
+Alexander Zverev,Alexei Popyrin,0.7363234162330627
+Alexander Zverev,Karen Khachanov,0.6386168748140335
+Alexander Zverev,Alex De Minaur,0.4110181927680969
+Alexander Zverev,Jack Draper,0.6613538265228271
+Alexander Zverev,Francisco Cerundolo,0.6236206293106079
+Alexander Zverev,Diego Schwartzman,0.8440837413072586
+Alexander Zverev,Zhizhen Zhang,0.8029775619506836
+Alexander Zverev,Hubert Hurkacz,0.5368331223726273
+Alexander Zverev,Aslan Karatsev,0.7808223217725754
+Alexander Zverev,Frances Tiafoe,0.3728218674659729
+Alexander Zverev,Tommy Paul,0.4136478304862976
+Alexander Zverev,Daniel Altmaier,0.8142450749874115
+Alexander Zverev,Mackenzie Mcdonald,0.5376575142145157
+Alexander Zverev,Max Purcell,0.7895072996616364
+Alexander Zverev,Ben Shelton,0.7052294313907623
+Alexander Zverev,Taro Daniel,0.8076250851154327
+Alexander Zverev,Jordan Thompson,0.7670601308345795
+Alexander Zverev,Felix Auger Aliassime,0.7294015437364578
+Alexander Zverev,Aleksandar Vukic,0.7847157269716263
+Alexander Zverev,Sebastian Ofner,0.8517501652240753
+Alexander Zverev,Christopher Oconnell,0.8126307874917984
+Alexander Zverev,Yoshihito Nishioka,0.7762649208307266
+Alexander Zverev,Marcos Giron,0.7383171617984772
+Alexander Zverev,Yosuke Watanuki,0.8317867517471313
+Alexander Zverev,Casper Ruud,0.6314727067947388
+Felix Auger Aliassime,Taylor Fritz,0.079688161611557
+Felix Auger Aliassime,Cameron Norrie,0.29782046377658844
+Felix Auger Aliassime,Shintaro Mochizuki,0.7231534719467163
+Felix Auger Aliassime,Tomas Martin Etcheverry,0.5804947465658188
+Felix Auger Aliassime,Sho Shimabukuro,0.6851387917995453
+Felix Auger Aliassime,Cristian Garin,0.5697398632764816
+Felix Auger Aliassime,Alexei Popyrin,0.5019700825214386
+Felix Auger Aliassime,Karen Khachanov,0.38060273230075836
+Felix Auger Aliassime,Alex De Minaur,0.20833022892475128
+Felix Auger Aliassime,Jack Draper,0.3858768045902252
+Felix Auger Aliassime,Francisco Cerundolo,0.3838529884815216
+Felix Auger Aliassime,Diego Schwartzman,0.6957073211669922
+Felix Auger Aliassime,Zhizhen Zhang,0.603890672326088
+Felix Auger Aliassime,Hubert Hurkacz,0.303830623626709
+Felix Auger Aliassime,Aslan Karatsev,0.56978440284729
+Felix Auger Aliassime,Frances Tiafoe,0.179388627409935
+Felix Auger Aliassime,Tommy Paul,0.21017460525035858
+Felix Auger Aliassime,Daniel Altmaier,0.6288822293281555
+Felix Auger Aliassime,Mackenzie Mcdonald,0.3047078251838684
+Felix Auger Aliassime,Max Purcell,0.5815849900245667
+Felix Auger Aliassime,Ben Shelton,0.4671277105808258
+Felix Auger Aliassime,Taro Daniel,0.6157824546098709
+Felix Auger Aliassime,Jordan Thompson,0.5477391481399536
+Felix Auger Aliassime,Alexander Zverev,0.2705984562635422
+Felix Auger Aliassime,Aleksandar Vukic,0.5767708271741867
+Felix Auger Aliassime,Sebastian Ofner,0.703227698802948
+Felix Auger Aliassime,Christopher Oconnell,0.629493921995163
+Felix Auger Aliassime,Yoshihito Nishioka,0.56659235060215
+Felix Auger Aliassime,Marcos Giron,0.5169870555400848
+Felix Auger Aliassime,Yosuke Watanuki,0.6590699851512909
+Felix Auger Aliassime,Casper Ruud,0.3884296715259552
+Aleksandar Vukic,Taylor Fritz,0.06461285054683685
+Aleksandar Vukic,Cameron Norrie,0.23904015123844147
+Aleksandar Vukic,Shintaro Mochizuki,0.6706030964851379
+Aleksandar Vukic,Tomas Martin Etcheverry,0.5162098705768585
+Aleksandar Vukic,Sho Shimabukuro,0.6270702630281448
+Aleksandar Vukic,Cristian Garin,0.4915637671947479
+Aleksandar Vukic,Alexei Popyrin,0.42333725094795227
+Aleksandar Vukic,Karen Khachanov,0.31003694236278534
+Aleksandar Vukic,Alex De Minaur,0.1625949889421463
+Aleksandar Vukic,Jack Draper,0.3125961422920227
+Aleksandar Vukic,Francisco Cerundolo,0.3123815655708313
+Aleksandar Vukic,Diego Schwartzman,0.6401670277118683
+Aleksandar Vukic,Zhizhen Zhang,0.5331169366836548
+Aleksandar Vukic,Hubert Hurkacz,0.2439514398574829
+Aleksandar Vukic,Aslan Karatsev,0.4937875270843506
+Aleksandar Vukic,Frances Tiafoe,0.140726238489151
+Aleksandar Vukic,Tommy Paul,0.16412155330181122
+Aleksandar Vukic,Daniel Altmaier,0.5649732798337936
+Aleksandar Vukic,Mackenzie Mcdonald,0.244727224111557
+Aleksandar Vukic,Max Purcell,0.5041854083538055
+Aleksandar Vukic,Ben Shelton,0.38843590021133423
+Aleksandar Vukic,Taro Daniel,0.5497522950172424
+Aleksandar Vukic,Jordan Thompson,0.47149956226348877
+Aleksandar Vukic,Alexander Zverev,0.21528427302837372
+Aleksandar Vukic,Felix Auger Aliassime,0.4232291728258133
+Aleksandar Vukic,Sebastian Ofner,0.6478905975818634
+Aleksandar Vukic,Christopher Oconnell,0.5662705600261688
+Aleksandar Vukic,Yoshihito Nishioka,0.4946947693824768
+Aleksandar Vukic,Marcos Giron,0.4459064453840256
+Aleksandar Vukic,Yosuke Watanuki,0.5975163280963898
+Aleksandar Vukic,Casper Ruud,0.315697580575943
+Sebastian Ofner,Taylor Fritz,0.04641537368297577
+Sebastian Ofner,Cameron Norrie,0.16508826613426208
+Sebastian Ofner,Shintaro Mochizuki,0.5320272147655487
+Sebastian Ofner,Tomas Martin Etcheverry,0.3726780116558075
+Sebastian Ofner,Sho Shimabukuro,0.4694935977458954
+Sebastian Ofner,Cristian Garin,0.34391096234321594
+Sebastian Ofner,Alexei Popyrin,0.29320651292800903
+Sebastian Ofner,Karen Khachanov,0.21001724898815155
+Sebastian Ofner,Alex De Minaur,0.11315390467643738
+Sebastian Ofner,Jack Draper,0.21029026806354523
+Sebastian Ofner,Francisco Cerundolo,0.21405968070030212
+Sebastian Ofner,Diego Schwartzman,0.5083168596029282
+Sebastian Ofner,Zhizhen Zhang,0.37578803300857544
+Sebastian Ofner,Hubert Hurkacz,0.16483399271965027
+Sebastian Ofner,Aslan Karatsev,0.3484329581260681
+Sebastian Ofner,Frances Tiafoe,0.09798397123813629
+Sebastian Ofner,Tommy Paul,0.11315260827541351
+Sebastian Ofner,Daniel Altmaier,0.4111325591802597
+Sebastian Ofner,Mackenzie Mcdonald,0.165401890873909
+Sebastian Ofner,Max Purcell,0.3505024313926697
+Sebastian Ofner,Ben Shelton,0.2688174843788147
+Sebastian Ofner,Taro Daniel,0.3953237980604172
+Sebastian Ofner,Jordan Thompson,0.3315533846616745
+Sebastian Ofner,Alexander Zverev,0.14824983477592468
+Sebastian Ofner,Felix Auger Aliassime,0.296772301197052
+Sebastian Ofner,Aleksandar Vukic,0.3521094024181366
+Sebastian Ofner,Christopher Oconnell,0.4191320985555649
+Sebastian Ofner,Yoshihito Nishioka,0.3531775176525116
+Sebastian Ofner,Marcos Giron,0.313651368021965
+Sebastian Ofner,Yosuke Watanuki,0.43262743949890137
+Sebastian Ofner,Casper Ruud,0.21680252254009247
+Christopher Oconnell,Taylor Fritz,0.05718258023262024
+Christopher Oconnell,Cameron Norrie,0.2083217203617096
+Christopher Oconnell,Shintaro Mochizuki,0.6079574823379517
+Christopher Oconnell,Tomas Martin Etcheverry,0.4519283175468445
+Christopher Oconnell,Sho Shimabukuro,0.5547247231006622
+Christopher Oconnell,Cristian Garin,0.4262118488550186
+Christopher Oconnell,Alexei Popyrin,0.36774513125419617
+Christopher Oconnell,Karen Khachanov,0.26807916164398193
+Christopher Oconnell,Alex De Minaur,0.14229285717010498
+Christopher Oconnell,Jack Draper,0.27007967233657837
+Christopher Oconnell,Francisco Cerundolo,0.269514799118042
+Christopher Oconnell,Diego Schwartzman,0.5783002376556396
+Christopher Oconnell,Zhizhen Zhang,0.46163520216941833
+Christopher Oconnell,Hubert Hurkacz,0.20749922096729279
+Christopher Oconnell,Aslan Karatsev,0.42994748055934906
+Christopher Oconnell,Frances Tiafoe,0.12475328147411346
+Christopher Oconnell,Tommy Paul,0.1430087685585022
+Christopher Oconnell,Daniel Altmaier,0.4940865784883499
+Christopher Oconnell,Mackenzie Mcdonald,0.2080768197774887
+Christopher Oconnell,Max Purcell,0.4333706498146057
+Christopher Oconnell,Ben Shelton,0.3384060859680176
+Christopher Oconnell,Taro Daniel,0.478878453373909
+Christopher Oconnell,Jordan Thompson,0.41053812205791473
+Christopher Oconnell,Alexander Zverev,0.1873692125082016
+Christopher Oconnell,Felix Auger Aliassime,0.37050607800483704
+Christopher Oconnell,Aleksandar Vukic,0.4337294399738312
+Christopher Oconnell,Sebastian Ofner,0.5808679014444351
+Christopher Oconnell,Yoshihito Nishioka,0.43340232968330383
+Christopher Oconnell,Marcos Giron,0.3912639021873474
+Christopher Oconnell,Yosuke Watanuki,0.521591991186142
+Christopher Oconnell,Casper Ruud,0.27274349331855774
+Yoshihito Nishioka,Taylor Fritz,0.06677812337875366
+Yoshihito Nishioka,Cameron Norrie,0.24840684235095978
+Yoshihito Nishioka,Shintaro Mochizuki,0.670268177986145
+Yoshihito Nishioka,Tomas Martin Etcheverry,0.5200334042310715
+Yoshihito Nishioka,Sho Shimabukuro,0.626046359539032
+Yoshihito Nishioka,Cristian Garin,0.4976007342338562
+Yoshihito Nishioka,Alexei Popyrin,0.43452976644039154
+Yoshihito Nishioka,Karen Khachanov,0.32060055434703827
+Yoshihito Nishioka,Alex De Minaur,0.1690111756324768
+Yoshihito Nishioka,Jack Draper,0.32312360405921936
+Yoshihito Nishioka,Francisco Cerundolo,0.321096271276474
+Yoshihito Nishioka,Diego Schwartzman,0.6400341242551804
+Yoshihito Nishioka,Zhizhen Zhang,0.5346188545227051
+Yoshihito Nishioka,Hubert Hurkacz,0.25281761586666107
+Yoshihito Nishioka,Aslan Karatsev,0.5000889897346497
+Yoshihito Nishioka,Frances Tiafoe,0.14622555673122406
+Yoshihito Nishioka,Tommy Paul,0.17058145999908447
+Yoshihito Nishioka,Daniel Altmaier,0.5649231821298599
+Yoshihito Nishioka,Mackenzie Mcdonald,0.2535488158464432
+Yoshihito Nishioka,Max Purcell,0.5100202560424805
+Yoshihito Nishioka,Ben Shelton,0.39827579259872437
+Yoshihito Nishioka,Taro Daniel,0.5499646216630936
+Yoshihito Nishioka,Jordan Thompson,0.48146475851535797
+Yoshihito Nishioka,Alexander Zverev,0.22373507916927338
+Yoshihito Nishioka,Felix Auger Aliassime,0.43340764939785004
+Yoshihito Nishioka,Aleksandar Vukic,0.5053052306175232
+Yoshihito Nishioka,Sebastian Ofner,0.6468224823474884
+Yoshihito Nishioka,Christopher Oconnell,0.5665976703166962
+Yoshihito Nishioka,Marcos Giron,0.4557034373283386
+Yoshihito Nishioka,Yosuke Watanuki,0.5975888818502426
+Yoshihito Nishioka,Casper Ruud,0.32451383769512177
+Marcos Giron,Taylor Fritz,0.07794292271137238
+Marcos Giron,Cameron Norrie,0.2890985310077667
+Marcos Giron,Shintaro Mochizuki,0.7076015472412109
+Marcos Giron,Tomas Martin Etcheverry,0.5623695701360703
+Marcos Giron,Sho Shimabukuro,0.6666294932365417
+Marcos Giron,Cristian Garin,0.5462626516819
+Marcos Giron,Alexei Popyrin,0.483505442738533
+Marcos Giron,Karen Khachanov,0.3680492341518402
+Marcos Giron,Alex De Minaur,0.1997503638267517
+Marcos Giron,Jack Draper,0.37239377200603485
+Marcos Giron,Francisco Cerundolo,0.37188929319381714
+Marcos Giron,Diego Schwartzman,0.6788593828678131
+Marcos Giron,Zhizhen Zhang,0.5826369673013687
+Marcos Giron,Hubert Hurkacz,0.29353533685207367
+Marcos Giron,Aslan Karatsev,0.5471456050872803
+Marcos Giron,Frances Tiafoe,0.17265687882900238
+Marcos Giron,Tommy Paul,0.20153185725212097
+Marcos Giron,Daniel Altmaier,0.6081030070781708
+Marcos Giron,Mackenzie Mcdonald,0.29427051544189453
+Marcos Giron,Max Purcell,0.5593723952770233
+Marcos Giron,Ben Shelton,0.45286186039447784
+Marcos Giron,Taro Daniel,0.5952440202236176
+Marcos Giron,Jordan Thompson,0.5262134671211243
+Marcos Giron,Alexander Zverev,0.2616828382015228
+Marcos Giron,Felix Auger Aliassime,0.48301294445991516
+Marcos Giron,Aleksandar Vukic,0.5540935546159744
+Marcos Giron,Sebastian Ofner,0.686348631978035
+Marcos Giron,Christopher Oconnell,0.6087360978126526
+Marcos Giron,Yoshihito Nishioka,0.5442965626716614
+Marcos Giron,Yosuke Watanuki,0.6395132690668106
+Marcos Giron,Casper Ruud,0.37555432319641113
+Yosuke Watanuki,Taylor Fritz,0.05216442048549652
+Yosuke Watanuki,Cameron Norrie,0.1868218332529068
+Yosuke Watanuki,Shintaro Mochizuki,0.5973105728626251
+Yosuke Watanuki,Tomas Martin Etcheverry,0.4278421998023987
+Yosuke Watanuki,Sho Shimabukuro,0.5395272225141525
+Yosuke Watanuki,Cristian Garin,0.3966253697872162
+Yosuke Watanuki,Alexei Popyrin,0.33754514157772064
+Yosuke Watanuki,Karen Khachanov,0.2424614429473877
+Yosuke Watanuki,Alex De Minaur,0.12803933024406433
+Yosuke Watanuki,Jack Draper,0.24459710717201233
+Yosuke Watanuki,Francisco Cerundolo,0.24301552772521973
+Yosuke Watanuki,Diego Schwartzman,0.5706543028354645
+Yosuke Watanuki,Zhizhen Zhang,0.43437598645687103
+Yosuke Watanuki,Hubert Hurkacz,0.1866808384656906
+Yosuke Watanuki,Aslan Karatsev,0.39954839646816254
+Yosuke Watanuki,Frances Tiafoe,0.11142987012863159
+Yosuke Watanuki,Tommy Paul,0.12866923213005066
+Yosuke Watanuki,Daniel Altmaier,0.4704008847475052
+Yosuke Watanuki,Mackenzie Mcdonald,0.18756608664989471
+Yosuke Watanuki,Max Purcell,0.40273532271385193
+Yosuke Watanuki,Ben Shelton,0.3094549775123596
+Yosuke Watanuki,Taro Daniel,0.4522475004196167
+Yosuke Watanuki,Jordan Thompson,0.37958499789237976
+Yosuke Watanuki,Alexander Zverev,0.16821324825286865
+Yosuke Watanuki,Felix Auger Aliassime,0.3409300148487091
+Yosuke Watanuki,Aleksandar Vukic,0.40248367190361023
+Yosuke Watanuki,Sebastian Ofner,0.5673725605010986
+Yosuke Watanuki,Christopher Oconnell,0.47840800881385803
+Yosuke Watanuki,Yoshihito Nishioka,0.4024111181497574
+Yosuke Watanuki,Marcos Giron,0.3604867309331894
+Yosuke Watanuki,Casper Ruud,0.2458524852991104
+Casper Ruud,Taylor Fritz,0.10720990598201752
+Casper Ruud,Cameron Norrie,0.4054369032382965
+Casper Ruud,Shintaro Mochizuki,0.7967536896467209
+Casper Ruud,Tomas Martin Etcheverry,0.6840168237686157
+Casper Ruud,Sho Shimabukuro,0.771978348493576
+Casper Ruud,Cristian Garin,0.678433358669281
+Casper Ruud,Alexei Popyrin,0.614557296037674
+Casper Ruud,Karen Khachanov,0.49766284227371216
+Casper Ruud,Alex De Minaur,0.27796243131160736
+Casper Ruud,Jack Draper,0.5109504759311676
+Casper Ruud,Francisco Cerundolo,0.49500443041324615
+Casper Ruud,Diego Schwartzman,0.7734001129865646
+Casper Ruud,Zhizhen Zhang,0.7062971293926239
+Casper Ruud,Hubert Hurkacz,0.4055905342102051
+Casper Ruud,Aslan Karatsev,0.6778554320335388
+Casper Ruud,Frances Tiafoe,0.24542362987995148
+Casper Ruud,Tommy Paul,0.2805158495903015
+Casper Ruud,Daniel Altmaier,0.7275066822767258
+Casper Ruud,Mackenzie Mcdonald,0.4062033146619797
+Casper Ruud,Max Purcell,0.6882988512516022
+Casper Ruud,Ben Shelton,0.5781244337558746
+Casper Ruud,Taro Daniel,0.7171321958303452
+Casper Ruud,Jordan Thompson,0.6582635790109634
+Casper Ruud,Alexander Zverev,0.36852729320526123
+Casper Ruud,Felix Auger Aliassime,0.6115703284740448
+Casper Ruud,Aleksandar Vukic,0.684302419424057
+Casper Ruud,Sebastian Ofner,0.7831974774599075
+Casper Ruud,Christopher Oconnell,0.7272565066814423
+Casper Ruud,Yoshihito Nishioka,0.6754861623048782
+Casper Ruud,Marcos Giron,0.6244456768035889
+Casper Ruud,Yosuke Watanuki,0.7541475147008896

@@ -1,0 +1,813 @@
+player,player_opponent,win_prob_mean
+Alexander Bublik,BYE,1.0
+Alexander Bublik,Thiago Seyboth Wild,0.6296223253011703
+Alexander Bublik,Fabio Fognini,0.5157648772001266
+Alexander Bublik,Abedallah Shelbayh,0.6858879774808884
+Alexander Bublik,Hugo Gaston,0.5473837405443192
+Alexander Bublik,Marcos Giron,0.501528337597847
+Alexander Bublik,Lorenzo Sonego,0.5020198971033096
+Alexander Bublik,Ugo Humbert,0.45447899401187897
+Alexander Bublik,Matteo Martineau,0.5748189389705658
+Alexander Bublik,Dominic Thiem,0.44894641637802124
+Alexander Bublik,Harold Mayo,0.5748189389705658
+Alexander Bublik,Yosuke Watanuki,0.6562916934490204
+Alexander Bublik,Gregoire Barrere,0.5440762937068939
+Alexander Bublik,Yannick Hanfmann,0.5645023733377457
+Alexander Bublik,Daniel Altmaier,0.5526880025863647
+Alexander Bublik,Mate Valkusz,0.5748189389705658
+Alexander Bublik,Alexander Shevchenko,0.6361728310585022
+Alexander Bublik,Mathias Bourgue,0.6552435159683228
+Alexander Bublik,Constant Lestienne,0.5841886550188065
+Alexander Bublik,Calvin Hemery,0.5748189389705658
+Alexander Bublik,Karen Khachanov,0.3827627897262573
+Alexander Bublik,Stan Wawrinka,0.4502788782119751
+Alexander Bublik,Bernabe Zapata Miralles,0.6037493944168091
+Alexander Bublik,Luca Van Assche,0.6787347793579102
+Alexander Bublik,Botic Van De Zandschulp,0.47166551649570465
+Alexander Bublik,Pierre Hugues Herbert,0.49357762932777405
+Alexander Bublik,Arthur Cazaux,0.68848717212677
+Alexander Bublik,Alex De Minaur,0.40206195414066315
+BYE,Alexander Bublik,0.0
+BYE,Thiago Seyboth Wild,0.0
+BYE,Fabio Fognini,0.0
+BYE,Abedallah Shelbayh,0.0
+BYE,Hugo Gaston,0.0
+BYE,Marcos Giron,0.0
+BYE,Lorenzo Sonego,0.0
+BYE,Ugo Humbert,0.0
+BYE,Matteo Martineau,0.0
+BYE,Dominic Thiem,0.0
+BYE,Harold Mayo,0.0
+BYE,Yosuke Watanuki,0.0
+BYE,Gregoire Barrere,0.0
+BYE,Yannick Hanfmann,0.0
+BYE,Daniel Altmaier,0.0
+BYE,Mate Valkusz,0.0
+BYE,Alexander Shevchenko,0.0
+BYE,Mathias Bourgue,0.0
+BYE,Constant Lestienne,0.0
+BYE,Calvin Hemery,0.0
+BYE,Karen Khachanov,0.0
+BYE,Stan Wawrinka,0.0
+BYE,Bernabe Zapata Miralles,0.0
+BYE,Luca Van Assche,0.0
+BYE,Botic Van De Zandschulp,0.0
+BYE,Pierre Hugues Herbert,0.0
+BYE,Arthur Cazaux,0.0
+BYE,Alex De Minaur,0.0
+Thiago Seyboth Wild,Alexander Bublik,0.37037767469882965
+Thiago Seyboth Wild,BYE,1.0
+Thiago Seyboth Wild,Fabio Fognini,0.4019143581390381
+Thiago Seyboth Wild,Abedallah Shelbayh,0.5908238142728806
+Thiago Seyboth Wild,Hugo Gaston,0.44964709877967834
+Thiago Seyboth Wild,Marcos Giron,0.370138943195343
+Thiago Seyboth Wild,Lorenzo Sonego,0.3998464196920395
+Thiago Seyboth Wild,Ugo Humbert,0.21175521612167358
+Thiago Seyboth Wild,Matteo Martineau,0.4807705581188202
+Thiago Seyboth Wild,Dominic Thiem,0.21730899810791016
+Thiago Seyboth Wild,Harold Mayo,0.4807705581188202
+Thiago Seyboth Wild,Yosuke Watanuki,0.5593749582767487
+Thiago Seyboth Wild,Gregoire Barrere,0.4561503380537033
+Thiago Seyboth Wild,Yannick Hanfmann,0.45565932989120483
+Thiago Seyboth Wild,Daniel Altmaier,0.46323177218437195
+Thiago Seyboth Wild,Mate Valkusz,0.4807705581188202
+Thiago Seyboth Wild,Alexander Shevchenko,0.5232107788324356
+Thiago Seyboth Wild,Mathias Bourgue,0.5438342392444611
+Thiago Seyboth Wild,Constant Lestienne,0.47535721957683563
+Thiago Seyboth Wild,Calvin Hemery,0.4807705581188202
+Thiago Seyboth Wild,Karen Khachanov,0.12586048245429993
+Thiago Seyboth Wild,Stan Wawrinka,0.22415770590305328
+Thiago Seyboth Wild,Bernabe Zapata Miralles,0.5508801341056824
+Thiago Seyboth Wild,Luca Van Assche,0.5956005603075027
+Thiago Seyboth Wild,Botic Van De Zandschulp,0.2655198574066162
+Thiago Seyboth Wild,Pierre Hugues Herbert,0.32595348358154297
+Thiago Seyboth Wild,Arthur Cazaux,0.5917368233203888
+Thiago Seyboth Wild,Alex De Minaur,0.1395331621170044
+Fabio Fognini,Alexander Bublik,0.48423512279987335
+Fabio Fognini,BYE,1.0
+Fabio Fognini,Thiago Seyboth Wild,0.5980856418609619
+Fabio Fognini,Abedallah Shelbayh,0.6631147712469101
+Fabio Fognini,Hugo Gaston,0.5249463468790054
+Fabio Fognini,Marcos Giron,0.4857678860425949
+Fabio Fognini,Lorenzo Sonego,0.49295951426029205
+Fabio Fognini,Ugo Humbert,0.35271281003952026
+Fabio Fognini,Matteo Martineau,0.5438008308410645
+Fabio Fognini,Dominic Thiem,0.35568277537822723
+Fabio Fognini,Harold Mayo,0.5438008308410645
+Fabio Fognini,Yosuke Watanuki,0.6326069831848145
+Fabio Fognini,Gregoire Barrere,0.5234889686107635
+Fabio Fognini,Yannick Hanfmann,0.5400493144989014
+Fabio Fognini,Daniel Altmaier,0.5334096401929855
+Fabio Fognini,Mate Valkusz,0.5438008308410645
+Fabio Fognini,Alexander Shevchenko,0.6111489534378052
+Fabio Fognini,Mathias Bourgue,0.6292748153209686
+Fabio Fognini,Constant Lestienne,0.5586598366498947
+Fabio Fognini,Calvin Hemery,0.5438008308410645
+Fabio Fognini,Karen Khachanov,0.24638226628303528
+Fabio Fognini,Stan Wawrinka,0.36274439096450806
+Fabio Fognini,Bernabe Zapata Miralles,0.5838833451271057
+Fabio Fognini,Luca Van Assche,0.6558336913585663
+Fabio Fognini,Botic Van De Zandschulp,0.4159323424100876
+Fabio Fognini,Pierre Hugues Herbert,0.45459240674972534
+Fabio Fognini,Arthur Cazaux,0.6658120453357697
+Fabio Fognini,Alex De Minaur,0.2690742313861847
+Abedallah Shelbayh,Alexander Bublik,0.31411202251911163
+Abedallah Shelbayh,BYE,1.0
+Abedallah Shelbayh,Thiago Seyboth Wild,0.40917618572711945
+Abedallah Shelbayh,Fabio Fognini,0.3368852287530899
+Abedallah Shelbayh,Hugo Gaston,0.36586296558380127
+Abedallah Shelbayh,Marcos Giron,0.3138761520385742
+Abedallah Shelbayh,Lorenzo Sonego,0.34162718057632446
+Abedallah Shelbayh,Ugo Humbert,0.1731327623128891
+Abedallah Shelbayh,Matteo Martineau,0.3914118707180023
+Abedallah Shelbayh,Dominic Thiem,0.17804445326328278
+Abedallah Shelbayh,Harold Mayo,0.3914118707180023
+Abedallah Shelbayh,Yosuke Watanuki,0.4678836911916733
+Abedallah Shelbayh,Gregoire Barrere,0.37198829650878906
+Abedallah Shelbayh,Yannick Hanfmann,0.37005215883255005
+Abedallah Shelbayh,Daniel Altmaier,0.3787359595298767
+Abedallah Shelbayh,Mate Valkusz,0.3914118707180023
+Abedallah Shelbayh,Alexander Shevchenko,0.43183431029319763
+Abedallah Shelbayh,Mathias Bourgue,0.45226943492889404
+Abedallah Shelbayh,Constant Lestienne,0.38646532595157623
+Abedallah Shelbayh,Calvin Hemery,0.3914118707180023
+Abedallah Shelbayh,Karen Khachanov,0.10399609804153442
+Abedallah Shelbayh,Stan Wawrinka,0.18371817469596863
+Abedallah Shelbayh,Bernabe Zapata Miralles,0.4644584655761719
+Abedallah Shelbayh,Luca Van Assche,0.5050055086612701
+Abedallah Shelbayh,Botic Van De Zandschulp,0.21974770724773407
+Abedallah Shelbayh,Pierre Hugues Herbert,0.25620460510253906
+Abedallah Shelbayh,Arthur Cazaux,0.5009444355964661
+Abedallah Shelbayh,Alex De Minaur,0.11562129855155945
+Hugo Gaston,Alexander Bublik,0.45261625945568085
+Hugo Gaston,BYE,1.0
+Hugo Gaston,Thiago Seyboth Wild,0.5503529012203217
+Hugo Gaston,Fabio Fognini,0.47505365312099457
+Hugo Gaston,Abedallah Shelbayh,0.6341370344161987
+Hugo Gaston,Marcos Giron,0.45242998003959656
+Hugo Gaston,Lorenzo Sonego,0.4770028293132782
+Hugo Gaston,Ugo Humbert,0.27559781074523926
+Hugo Gaston,Matteo Martineau,0.5202036499977112
+Hugo Gaston,Dominic Thiem,0.28197208046913147
+Hugo Gaston,Harold Mayo,0.5202036499977112
+Hugo Gaston,Yosuke Watanuki,0.6056552827358246
+Hugo Gaston,Gregoire Barrere,0.5063778311014175
+Hugo Gaston,Yannick Hanfmann,0.5088653415441513
+Hugo Gaston,Daniel Altmaier,0.5157402455806732
+Hugo Gaston,Mate Valkusz,0.5202036499977112
+Hugo Gaston,Alexander Shevchenko,0.5717789083719254
+Hugo Gaston,Mathias Bourgue,0.5888874530792236
+Hugo Gaston,Constant Lestienne,0.5250212848186493
+Hugo Gaston,Calvin Hemery,0.5202036499977112
+Hugo Gaston,Karen Khachanov,0.17461919784545898
+Hugo Gaston,Stan Wawrinka,0.2904514670372009
+Hugo Gaston,Bernabe Zapata Miralles,0.5936625599861145
+Hugo Gaston,Luca Van Assche,0.63941490650177
+Hugo Gaston,Botic Van De Zandschulp,0.3385210931301117
+Hugo Gaston,Pierre Hugues Herbert,0.38224369287490845
+Hugo Gaston,Arthur Cazaux,0.6354129314422607
+Hugo Gaston,Alex De Minaur,0.19275523722171783
+Marcos Giron,Alexander Bublik,0.498471662402153
+Marcos Giron,BYE,1.0
+Marcos Giron,Thiago Seyboth Wild,0.629861056804657
+Marcos Giron,Fabio Fognini,0.5142321139574051
+Marcos Giron,Abedallah Shelbayh,0.6861238479614258
+Marcos Giron,Hugo Gaston,0.5475700199604034
+Marcos Giron,Lorenzo Sonego,0.500214159488678
+Marcos Giron,Ugo Humbert,0.4345676898956299
+Marcos Giron,Matteo Martineau,0.5751294493675232
+Marcos Giron,Dominic Thiem,0.43267178535461426
+Marcos Giron,Harold Mayo,0.5751294493675232
+Marcos Giron,Yosuke Watanuki,0.6565254628658295
+Marcos Giron,Gregoire Barrere,0.5435608774423599
+Marcos Giron,Yannick Hanfmann,0.5645477026700974
+Marcos Giron,Daniel Altmaier,0.5527663677930832
+Marcos Giron,Mate Valkusz,0.5751294493675232
+Marcos Giron,Alexander Shevchenko,0.6364075839519501
+Marcos Giron,Mathias Bourgue,0.6555067896842957
+Marcos Giron,Constant Lestienne,0.584452360868454
+Marcos Giron,Calvin Hemery,0.5751294493675232
+Marcos Giron,Karen Khachanov,0.3432697057723999
+Marcos Giron,Stan Wawrinka,0.4407093822956085
+Marcos Giron,Bernabe Zapata Miralles,0.6044766008853912
+Marcos Giron,Luca Van Assche,0.6789497137069702
+Marcos Giron,Botic Van De Zandschulp,0.46905042231082916
+Marcos Giron,Pierre Hugues Herbert,0.49100205302238464
+Marcos Giron,Arthur Cazaux,0.6887214779853821
+Marcos Giron,Alex De Minaur,0.3617876023054123
+Lorenzo Sonego,Alexander Bublik,0.49798010289669037
+Lorenzo Sonego,BYE,1.0
+Lorenzo Sonego,Thiago Seyboth Wild,0.6001535803079605
+Lorenzo Sonego,Fabio Fognini,0.507040485739708
+Lorenzo Sonego,Abedallah Shelbayh,0.6583728194236755
+Lorenzo Sonego,Hugo Gaston,0.5229971706867218
+Lorenzo Sonego,Marcos Giron,0.499785840511322
+Lorenzo Sonego,Ugo Humbert,0.4360579699277878
+Lorenzo Sonego,Matteo Martineau,0.5466216653585434
+Lorenzo Sonego,Dominic Thiem,0.43360134959220886
+Lorenzo Sonego,Harold Mayo,0.5466216653585434
+Lorenzo Sonego,Yosuke Watanuki,0.6276565194129944
+Lorenzo Sonego,Gregoire Barrere,0.5243350267410278
+Lorenzo Sonego,Yannick Hanfmann,0.5403099060058594
+Lorenzo Sonego,Daniel Altmaier,0.5304955244064331
+Lorenzo Sonego,Mate Valkusz,0.5466216653585434
+Lorenzo Sonego,Alexander Shevchenko,0.6069048643112183
+Lorenzo Sonego,Mathias Bourgue,0.6264565587043762
+Lorenzo Sonego,Constant Lestienne,0.5545965284109116
+Lorenzo Sonego,Calvin Hemery,0.5466216653585434
+Lorenzo Sonego,Karen Khachanov,0.34454986453056335
+Lorenzo Sonego,Stan Wawrinka,0.4418756067752838
+Lorenzo Sonego,Bernabe Zapata Miralles,0.5734988451004028
+Lorenzo Sonego,Luca Van Assche,0.6510121822357178
+Lorenzo Sonego,Botic Van De Zandschulp,0.4675717055797577
+Lorenzo Sonego,Pierre Hugues Herbert,0.4835563749074936
+Lorenzo Sonego,Arthur Cazaux,0.6610884070396423
+Lorenzo Sonego,Alex De Minaur,0.3652136027812958
+Ugo Humbert,Alexander Bublik,0.545521005988121
+Ugo Humbert,BYE,1.0
+Ugo Humbert,Thiago Seyboth Wild,0.7882447838783264
+Ugo Humbert,Fabio Fognini,0.6472871899604797
+Ugo Humbert,Abedallah Shelbayh,0.8268672376871109
+Ugo Humbert,Hugo Gaston,0.7244021892547607
+Ugo Humbert,Marcos Giron,0.5654323101043701
+Ugo Humbert,Lorenzo Sonego,0.5639420300722122
+Ugo Humbert,Matteo Martineau,0.7467946112155914
+Ugo Humbert,Dominic Thiem,0.4968244135379791
+Ugo Humbert,Harold Mayo,0.7467946112155914
+Ugo Humbert,Yosuke Watanuki,0.8069563955068588
+Ugo Humbert,Gregoire Barrere,0.7149773985147476
+Ugo Humbert,Yannick Hanfmann,0.7383645921945572
+Ugo Humbert,Daniel Altmaier,0.7258026897907257
+Ugo Humbert,Mate Valkusz,0.7467946112155914
+Ugo Humbert,Alexander Shevchenko,0.7929209023714066
+Ugo Humbert,Mathias Bourgue,0.8059779703617096
+Ugo Humbert,Constant Lestienne,0.754618301987648
+Ugo Humbert,Calvin Hemery,0.7467946112155914
+Ugo Humbert,Karen Khachanov,0.424776554107666
+Ugo Humbert,Stan Wawrinka,0.5074974447488785
+Ugo Humbert,Bernabe Zapata Miralles,0.7685938626527786
+Ugo Humbert,Luca Van Assche,0.8221933543682098
+Ugo Humbert,Botic Van De Zandschulp,0.5178960114717484
+Ugo Humbert,Pierre Hugues Herbert,0.6481368392705917
+Ugo Humbert,Arthur Cazaux,0.8285923302173615
+Ugo Humbert,Alex De Minaur,0.44163233041763306
+Matteo Martineau,Alexander Bublik,0.4251810610294342
+Matteo Martineau,BYE,1.0
+Matteo Martineau,Thiago Seyboth Wild,0.5192294418811798
+Matteo Martineau,Fabio Fognini,0.45619916915893555
+Matteo Martineau,Abedallah Shelbayh,0.6085881292819977
+Matteo Martineau,Hugo Gaston,0.4797963500022888
+Matteo Martineau,Marcos Giron,0.4248705506324768
+Matteo Martineau,Lorenzo Sonego,0.4533783346414566
+Matteo Martineau,Ugo Humbert,0.25320538878440857
+Matteo Martineau,Dominic Thiem,0.2598014622926712
+Matteo Martineau,Harold Mayo,0.5
+Matteo Martineau,Yosuke Watanuki,0.5779468417167664
+Matteo Martineau,Gregoire Barrere,0.4864047169685364
+Matteo Martineau,Yannick Hanfmann,0.4825514554977417
+Matteo Martineau,Daniel Altmaier,0.4933772385120392
+Matteo Martineau,Mate Valkusz,0.5
+Matteo Martineau,Alexander Shevchenko,0.5422937721014023
+Matteo Martineau,Mathias Bourgue,0.5622857362031937
+Matteo Martineau,Constant Lestienne,0.4974268078804016
+Matteo Martineau,Calvin Hemery,0.5
+Matteo Martineau,Karen Khachanov,0.15573649108409882
+Matteo Martineau,Stan Wawrinka,0.26698555052280426
+Matteo Martineau,Bernabe Zapata Miralles,0.5805676728487015
+Matteo Martineau,Luca Van Assche,0.6135664284229279
+Matteo Martineau,Botic Van De Zandschulp,0.3130198121070862
+Matteo Martineau,Pierre Hugues Herbert,0.36628012359142303
+Matteo Martineau,Arthur Cazaux,0.6094806492328644
+Matteo Martineau,Alex De Minaur,0.17151588201522827
+Dominic Thiem,Alexander Bublik,0.5510535836219788
+Dominic Thiem,BYE,1.0
+Dominic Thiem,Thiago Seyboth Wild,0.7826910018920898
+Dominic Thiem,Fabio Fognini,0.6443172246217728
+Dominic Thiem,Abedallah Shelbayh,0.8219555467367172
+Dominic Thiem,Hugo Gaston,0.7180279195308685
+Dominic Thiem,Marcos Giron,0.5673282146453857
+Dominic Thiem,Lorenzo Sonego,0.5663986504077911
+Dominic Thiem,Ugo Humbert,0.5031755864620209
+Dominic Thiem,Matteo Martineau,0.7401985377073288
+Dominic Thiem,Harold Mayo,0.7401985228061676
+Dominic Thiem,Yosuke Watanuki,0.8017101138830185
+Dominic Thiem,Gregoire Barrere,0.7093562334775925
+Dominic Thiem,Yannick Hanfmann,0.7321377247571945
+Dominic Thiem,Daniel Altmaier,0.7196480333805084
+Dominic Thiem,Mate Valkusz,0.7401985377073288
+Dominic Thiem,Alexander Shevchenko,0.7874549329280853
+Dominic Thiem,Mathias Bourgue,0.8005786091089249
+Dominic Thiem,Constant Lestienne,0.7484902590513229
+Dominic Thiem,Calvin Hemery,0.7401985377073288
+Dominic Thiem,Karen Khachanov,0.38561373949050903
+Dominic Thiem,Stan Wawrinka,0.5093880891799927
+Dominic Thiem,Bernabe Zapata Miralles,0.7623587846755981
+Dominic Thiem,Luca Van Assche,0.8166060447692871
+Dominic Thiem,Botic Van De Zandschulp,0.5230562686920166
+Dominic Thiem,Pierre Hugues Herbert,0.6436646282672882
+Dominic Thiem,Arthur Cazaux,0.8237186670303345
+Dominic Thiem,Alex De Minaur,0.41198134422302246
+Harold Mayo,Alexander Bublik,0.4251810610294342
+Harold Mayo,BYE,1.0
+Harold Mayo,Thiago Seyboth Wild,0.5192294418811798
+Harold Mayo,Fabio Fognini,0.45619916915893555
+Harold Mayo,Abedallah Shelbayh,0.6085881292819977
+Harold Mayo,Hugo Gaston,0.4797963500022888
+Harold Mayo,Marcos Giron,0.4248705506324768
+Harold Mayo,Lorenzo Sonego,0.4533783346414566
+Harold Mayo,Ugo Humbert,0.25320538878440857
+Harold Mayo,Matteo Martineau,0.5
+Harold Mayo,Dominic Thiem,0.2598014771938324
+Harold Mayo,Yosuke Watanuki,0.5779468417167664
+Harold Mayo,Gregoire Barrere,0.4864047169685364
+Harold Mayo,Yannick Hanfmann,0.4825514554977417
+Harold Mayo,Daniel Altmaier,0.4933772385120392
+Harold Mayo,Mate Valkusz,0.5
+Harold Mayo,Alexander Shevchenko,0.5422937721014023
+Harold Mayo,Mathias Bourgue,0.5622857362031937
+Harold Mayo,Constant Lestienne,0.4974267780780792
+Harold Mayo,Calvin Hemery,0.5
+Harold Mayo,Karen Khachanov,0.15573649108409882
+Harold Mayo,Stan Wawrinka,0.26698555052280426
+Harold Mayo,Bernabe Zapata Miralles,0.5805676728487015
+Harold Mayo,Luca Van Assche,0.6135664284229279
+Harold Mayo,Botic Van De Zandschulp,0.3130198121070862
+Harold Mayo,Pierre Hugues Herbert,0.36628012359142303
+Harold Mayo,Arthur Cazaux,0.6094806492328644
+Harold Mayo,Alex De Minaur,0.17151588201522827
+Yosuke Watanuki,Alexander Bublik,0.3437083065509796
+Yosuke Watanuki,BYE,1.0
+Yosuke Watanuki,Thiago Seyboth Wild,0.44062504172325134
+Yosuke Watanuki,Fabio Fognini,0.36739301681518555
+Yosuke Watanuki,Abedallah Shelbayh,0.5321163088083267
+Yosuke Watanuki,Hugo Gaston,0.3943447172641754
+Yosuke Watanuki,Marcos Giron,0.34347453713417053
+Yosuke Watanuki,Lorenzo Sonego,0.3723434805870056
+Yosuke Watanuki,Ugo Humbert,0.19304360449314117
+Yosuke Watanuki,Matteo Martineau,0.42205315828323364
+Yosuke Watanuki,Dominic Thiem,0.1982898861169815
+Yosuke Watanuki,Harold Mayo,0.42205315828323364
+Yosuke Watanuki,Gregoire Barrere,0.40061770379543304
+Yosuke Watanuki,Yannick Hanfmann,0.40026749670505524
+Yosuke Watanuki,Daniel Altmaier,0.40758243203163147
+Yosuke Watanuki,Mate Valkusz,0.42205315828323364
+Yosuke Watanuki,Alexander Shevchenko,0.4636457562446594
+Yosuke Watanuki,Mathias Bourgue,0.484258770942688
+Yosuke Watanuki,Constant Lestienne,0.4171317219734192
+Yosuke Watanuki,Calvin Hemery,0.42205315828323364
+Yosuke Watanuki,Karen Khachanov,0.118276447057724
+Yosuke Watanuki,Stan Wawrinka,0.2046022117137909
+Yosuke Watanuki,Bernabe Zapata Miralles,0.4948507696390152
+Yosuke Watanuki,Luca Van Assche,0.5370878279209137
+Yosuke Watanuki,Botic Van De Zandschulp,0.2435002624988556
+Yosuke Watanuki,Pierre Hugues Herbert,0.28193506598472595
+Yosuke Watanuki,Arthur Cazaux,0.5330568701028824
+Yosuke Watanuki,Alex De Minaur,0.1315383017063141
+Gregoire Barrere,Alexander Bublik,0.4559237062931061
+Gregoire Barrere,BYE,1.0
+Gregoire Barrere,Thiago Seyboth Wild,0.5438496619462967
+Gregoire Barrere,Fabio Fognini,0.47651103138923645
+Gregoire Barrere,Abedallah Shelbayh,0.6280117034912109
+Gregoire Barrere,Hugo Gaston,0.49362216889858246
+Gregoire Barrere,Marcos Giron,0.4564391225576401
+Gregoire Barrere,Lorenzo Sonego,0.47566497325897217
+Gregoire Barrere,Ugo Humbert,0.2850226014852524
+Gregoire Barrere,Matteo Martineau,0.5135952830314636
+Gregoire Barrere,Dominic Thiem,0.29064376652240753
+Gregoire Barrere,Harold Mayo,0.5135952830314636
+Gregoire Barrere,Yosuke Watanuki,0.599382296204567
+Gregoire Barrere,Yannick Hanfmann,0.5029457956552505
+Gregoire Barrere,Daniel Altmaier,0.5094175189733505
+Gregoire Barrere,Mate Valkusz,0.5135952830314636
+Gregoire Barrere,Alexander Shevchenko,0.5653529614210129
+Gregoire Barrere,Mathias Bourgue,0.5824634879827499
+Gregoire Barrere,Constant Lestienne,0.5184505581855774
+Gregoire Barrere,Calvin Hemery,0.513595312833786
+Gregoire Barrere,Karen Khachanov,0.1848728060722351
+Gregoire Barrere,Stan Wawrinka,0.29776841402053833
+Gregoire Barrere,Bernabe Zapata Miralles,0.5861820578575134
+Gregoire Barrere,Luca Van Assche,0.6333719193935394
+Gregoire Barrere,Botic Van De Zandschulp,0.3464665561914444
+Gregoire Barrere,Pierre Hugues Herbert,0.3830060064792633
+Gregoire Barrere,Arthur Cazaux,0.6292989999055862
+Gregoire Barrere,Alex De Minaur,0.2038009762763977
+Yannick Hanfmann,Alexander Bublik,0.43549762666225433
+Yannick Hanfmann,BYE,1.0
+Yannick Hanfmann,Thiago Seyboth Wild,0.5443406701087952
+Yannick Hanfmann,Fabio Fognini,0.45995068550109863
+Yannick Hanfmann,Abedallah Shelbayh,0.62994784116745
+Yannick Hanfmann,Hugo Gaston,0.4911346584558487
+Yannick Hanfmann,Marcos Giron,0.43545229732990265
+Yannick Hanfmann,Lorenzo Sonego,0.4596900939941406
+Yannick Hanfmann,Ugo Humbert,0.2616354078054428
+Yannick Hanfmann,Matteo Martineau,0.5174485445022583
+Yannick Hanfmann,Dominic Thiem,0.2678622752428055
+Yannick Hanfmann,Harold Mayo,0.5174485445022583
+Yannick Hanfmann,Yosuke Watanuki,0.5997325032949448
+Yannick Hanfmann,Gregoire Barrere,0.49705420434474945
+Yannick Hanfmann,Daniel Altmaier,0.5056760907173157
+Yannick Hanfmann,Mate Valkusz,0.5174485445022583
+Yannick Hanfmann,Alexander Shevchenko,0.5659239143133163
+Yannick Hanfmann,Mathias Bourgue,0.5850179493427277
+Yannick Hanfmann,Constant Lestienne,0.5177643001079559
+Yannick Hanfmann,Calvin Hemery,0.5174485445022583
+Yannick Hanfmann,Karen Khachanov,0.16450385749340057
+Yannick Hanfmann,Stan Wawrinka,0.2760128080844879
+Yannick Hanfmann,Bernabe Zapata Miralles,0.5868998169898987
+Yannick Hanfmann,Luca Van Assche,0.6340830773115158
+Yannick Hanfmann,Botic Van De Zandschulp,0.32284748554229736
+Yannick Hanfmann,Pierre Hugues Herbert,0.37001916766166687
+Yannick Hanfmann,Arthur Cazaux,0.6309776604175568
+Yannick Hanfmann,Alex De Minaur,0.18185068666934967
+Daniel Altmaier,Alexander Bublik,0.44731199741363525
+Daniel Altmaier,BYE,1.0
+Daniel Altmaier,Thiago Seyboth Wild,0.536768227815628
+Daniel Altmaier,Fabio Fognini,0.46659035980701447
+Daniel Altmaier,Abedallah Shelbayh,0.6212640404701233
+Daniel Altmaier,Hugo Gaston,0.4842597544193268
+Daniel Altmaier,Marcos Giron,0.4472336322069168
+Daniel Altmaier,Lorenzo Sonego,0.4695044755935669
+Daniel Altmaier,Ugo Humbert,0.2741973102092743
+Daniel Altmaier,Matteo Martineau,0.5066227614879608
+Daniel Altmaier,Dominic Thiem,0.2803519666194916
+Daniel Altmaier,Harold Mayo,0.5066227614879608
+Daniel Altmaier,Yosuke Watanuki,0.5924175679683685
+Daniel Altmaier,Gregoire Barrere,0.4905824810266495
+Daniel Altmaier,Yannick Hanfmann,0.4943239092826843
+Daniel Altmaier,Mate Valkusz,0.5066227614879608
+Daniel Altmaier,Alexander Shevchenko,0.5582793802022934
+Daniel Altmaier,Mathias Bourgue,0.5755604207515717
+Daniel Altmaier,Constant Lestienne,0.5114063918590546
+Daniel Altmaier,Calvin Hemery,0.5066227614879608
+Daniel Altmaier,Karen Khachanov,0.17501819133758545
+Daniel Altmaier,Stan Wawrinka,0.28862200677394867
+Daniel Altmaier,Bernabe Zapata Miralles,0.5784026682376862
+Daniel Altmaier,Luca Van Assche,0.6265646815299988
+Daniel Altmaier,Botic Van De Zandschulp,0.33674702048301697
+Daniel Altmaier,Pierre Hugues Herbert,0.3742006719112396
+Daniel Altmaier,Arthur Cazaux,0.6225543469190598
+Daniel Altmaier,Alex De Minaur,0.19307923316955566
+Mate Valkusz,Alexander Bublik,0.4251810610294342
+Mate Valkusz,BYE,1.0
+Mate Valkusz,Thiago Seyboth Wild,0.5192294418811798
+Mate Valkusz,Fabio Fognini,0.45619916915893555
+Mate Valkusz,Abedallah Shelbayh,0.6085881292819977
+Mate Valkusz,Hugo Gaston,0.4797963500022888
+Mate Valkusz,Marcos Giron,0.4248705506324768
+Mate Valkusz,Lorenzo Sonego,0.4533783346414566
+Mate Valkusz,Ugo Humbert,0.25320538878440857
+Mate Valkusz,Matteo Martineau,0.5
+Mate Valkusz,Dominic Thiem,0.2598014622926712
+Mate Valkusz,Harold Mayo,0.5
+Mate Valkusz,Yosuke Watanuki,0.5779468417167664
+Mate Valkusz,Gregoire Barrere,0.4864047169685364
+Mate Valkusz,Yannick Hanfmann,0.4825514554977417
+Mate Valkusz,Daniel Altmaier,0.4933772385120392
+Mate Valkusz,Alexander Shevchenko,0.5422937721014023
+Mate Valkusz,Mathias Bourgue,0.5622857362031937
+Mate Valkusz,Constant Lestienne,0.4974268078804016
+Mate Valkusz,Calvin Hemery,0.5
+Mate Valkusz,Karen Khachanov,0.15573649108409882
+Mate Valkusz,Stan Wawrinka,0.26698555052280426
+Mate Valkusz,Bernabe Zapata Miralles,0.5805676728487015
+Mate Valkusz,Luca Van Assche,0.6135664284229279
+Mate Valkusz,Botic Van De Zandschulp,0.3130198121070862
+Mate Valkusz,Pierre Hugues Herbert,0.36628012359142303
+Mate Valkusz,Arthur Cazaux,0.6094806492328644
+Mate Valkusz,Alex De Minaur,0.17151588201522827
+Alexander Shevchenko,Alexander Bublik,0.3638271689414978
+Alexander Shevchenko,BYE,1.0
+Alexander Shevchenko,Thiago Seyboth Wild,0.4767892211675644
+Alexander Shevchenko,Fabio Fognini,0.3888510465621948
+Alexander Shevchenko,Abedallah Shelbayh,0.5681656897068024
+Alexander Shevchenko,Hugo Gaston,0.42822109162807465
+Alexander Shevchenko,Marcos Giron,0.3635924160480499
+Alexander Shevchenko,Lorenzo Sonego,0.39309513568878174
+Alexander Shevchenko,Ugo Humbert,0.20707909762859344
+Alexander Shevchenko,Matteo Martineau,0.4577062278985977
+Alexander Shevchenko,Dominic Thiem,0.21254506707191467
+Alexander Shevchenko,Harold Mayo,0.4577062278985977
+Alexander Shevchenko,Yosuke Watanuki,0.5363542437553406
+Alexander Shevchenko,Gregoire Barrere,0.4346470385789871
+Alexander Shevchenko,Yannick Hanfmann,0.43407608568668365
+Alexander Shevchenko,Daniel Altmaier,0.4417206197977066
+Alexander Shevchenko,Mate Valkusz,0.4577062278985977
+Alexander Shevchenko,Mathias Bourgue,0.5206792056560516
+Alexander Shevchenko,Constant Lestienne,0.4522600322961807
+Alexander Shevchenko,Calvin Hemery,0.4577062278985977
+Alexander Shevchenko,Karen Khachanov,0.12503892183303833
+Alexander Shevchenko,Stan Wawrinka,0.2192835807800293
+Alexander Shevchenko,Bernabe Zapata Miralles,0.5293386429548264
+Alexander Shevchenko,Luca Van Assche,0.5730318874120712
+Alexander Shevchenko,Botic Van De Zandschulp,0.2600483298301697
+Alexander Shevchenko,Pierre Hugues Herbert,0.3070760667324066
+Alexander Shevchenko,Arthur Cazaux,0.5690923929214478
+Alexander Shevchenko,Alex De Minaur,0.1386328488588333
+Mathias Bourgue,Alexander Bublik,0.34475648403167725
+Mathias Bourgue,BYE,1.0
+Mathias Bourgue,Thiago Seyboth Wild,0.45616576075553894
+Mathias Bourgue,Fabio Fognini,0.37072518467903137
+Mathias Bourgue,Abedallah Shelbayh,0.547730565071106
+Mathias Bourgue,Hugo Gaston,0.41111254692077637
+Mathias Bourgue,Marcos Giron,0.34449321031570435
+Mathias Bourgue,Lorenzo Sonego,0.3735434412956238
+Mathias Bourgue,Ugo Humbert,0.1940220296382904
+Mathias Bourgue,Matteo Martineau,0.43771426379680634
+Mathias Bourgue,Dominic Thiem,0.19942139089107513
+Mathias Bourgue,Harold Mayo,0.43771426379680634
+Mathias Bourgue,Yosuke Watanuki,0.515741229057312
+Mathias Bourgue,Gregoire Barrere,0.41753651201725006
+Mathias Bourgue,Yannick Hanfmann,0.41498205065727234
+Mathias Bourgue,Daniel Altmaier,0.42443957924842834
+Mathias Bourgue,Mate Valkusz,0.43771426379680634
+Mathias Bourgue,Alexander Shevchenko,0.47932079434394836
+Mathias Bourgue,Constant Lestienne,0.43201062083244324
+Mathias Bourgue,Calvin Hemery,0.43771426379680634
+Mathias Bourgue,Karen Khachanov,0.11567668616771698
+Mathias Bourgue,Stan Wawrinka,0.20553795993328094
+Mathias Bourgue,Bernabe Zapata Miralles,0.512005478143692
+Mathias Bourgue,Luca Van Assche,0.5527117401361465
+Mathias Bourgue,Botic Van De Zandschulp,0.24456055462360382
+Mathias Bourgue,Pierre Hugues Herbert,0.2924630641937256
+Mathias Bourgue,Arthur Cazaux,0.5486655980348587
+Mathias Bourgue,Alex De Minaur,0.12842677533626556
+Constant Lestienne,Alexander Bublik,0.41581134498119354
+Constant Lestienne,BYE,1.0
+Constant Lestienne,Thiago Seyboth Wild,0.5246427804231644
+Constant Lestienne,Fabio Fognini,0.4413401633501053
+Constant Lestienne,Abedallah Shelbayh,0.6135346740484238
+Constant Lestienne,Hugo Gaston,0.4749787151813507
+Constant Lestienne,Marcos Giron,0.415547639131546
+Constant Lestienne,Lorenzo Sonego,0.44540347158908844
+Constant Lestienne,Ugo Humbert,0.245381698012352
+Constant Lestienne,Matteo Martineau,0.5025731921195984
+Constant Lestienne,Dominic Thiem,0.25150974094867706
+Constant Lestienne,Harold Mayo,0.5025732219219208
+Constant Lestienne,Yosuke Watanuki,0.5828682780265808
+Constant Lestienne,Gregoire Barrere,0.4815494418144226
+Constant Lestienne,Yannick Hanfmann,0.48223569989204407
+Constant Lestienne,Daniel Altmaier,0.48859360814094543
+Constant Lestienne,Mate Valkusz,0.5025731921195984
+Constant Lestienne,Alexander Shevchenko,0.5477399677038193
+Constant Lestienne,Mathias Bourgue,0.5679893791675568
+Constant Lestienne,Calvin Hemery,0.5025731921195984
+Constant Lestienne,Karen Khachanov,0.15361377596855164
+Constant Lestienne,Stan Wawrinka,0.25911474227905273
+Constant Lestienne,Bernabe Zapata Miralles,0.5758234411478043
+Constant Lestienne,Luca Van Assche,0.6177359521389008
+Constant Lestienne,Botic Van De Zandschulp,0.30438680946826935
+Constant Lestienne,Pierre Hugues Herbert,0.3502887040376663
+Constant Lestienne,Arthur Cazaux,0.6145819127559662
+Constant Lestienne,Alex De Minaur,0.16999293863773346
+Calvin Hemery,Alexander Bublik,0.4251810610294342
+Calvin Hemery,BYE,1.0
+Calvin Hemery,Thiago Seyboth Wild,0.5192294418811798
+Calvin Hemery,Fabio Fognini,0.45619916915893555
+Calvin Hemery,Abedallah Shelbayh,0.6085881292819977
+Calvin Hemery,Hugo Gaston,0.4797963500022888
+Calvin Hemery,Marcos Giron,0.4248705506324768
+Calvin Hemery,Lorenzo Sonego,0.4533783346414566
+Calvin Hemery,Ugo Humbert,0.25320538878440857
+Calvin Hemery,Matteo Martineau,0.5
+Calvin Hemery,Dominic Thiem,0.2598014622926712
+Calvin Hemery,Harold Mayo,0.5
+Calvin Hemery,Yosuke Watanuki,0.5779468417167664
+Calvin Hemery,Gregoire Barrere,0.486404687166214
+Calvin Hemery,Yannick Hanfmann,0.4825514554977417
+Calvin Hemery,Daniel Altmaier,0.4933772385120392
+Calvin Hemery,Mate Valkusz,0.5
+Calvin Hemery,Alexander Shevchenko,0.5422937721014023
+Calvin Hemery,Mathias Bourgue,0.5622857362031937
+Calvin Hemery,Constant Lestienne,0.4974268078804016
+Calvin Hemery,Karen Khachanov,0.15573649108409882
+Calvin Hemery,Stan Wawrinka,0.26698555052280426
+Calvin Hemery,Bernabe Zapata Miralles,0.5805676728487015
+Calvin Hemery,Luca Van Assche,0.6135664284229279
+Calvin Hemery,Botic Van De Zandschulp,0.3130198121070862
+Calvin Hemery,Pierre Hugues Herbert,0.36628012359142303
+Calvin Hemery,Arthur Cazaux,0.6094806492328644
+Calvin Hemery,Alex De Minaur,0.17151588201522827
+Karen Khachanov,Alexander Bublik,0.6172372102737427
+Karen Khachanov,BYE,1.0
+Karen Khachanov,Thiago Seyboth Wild,0.8741395175457001
+Karen Khachanov,Fabio Fognini,0.7536177337169647
+Karen Khachanov,Abedallah Shelbayh,0.8960039019584656
+Karen Khachanov,Hugo Gaston,0.825380802154541
+Karen Khachanov,Marcos Giron,0.6567302942276001
+Karen Khachanov,Lorenzo Sonego,0.6554501354694366
+Karen Khachanov,Ugo Humbert,0.575223445892334
+Karen Khachanov,Matteo Martineau,0.8442635089159012
+Karen Khachanov,Dominic Thiem,0.614386260509491
+Karen Khachanov,Harold Mayo,0.8442635089159012
+Karen Khachanov,Yosuke Watanuki,0.881723552942276
+Karen Khachanov,Gregoire Barrere,0.8151271939277649
+Karen Khachanov,Yannick Hanfmann,0.8354961425065994
+Karen Khachanov,Daniel Altmaier,0.8249818086624146
+Karen Khachanov,Mate Valkusz,0.8442635089159012
+Karen Khachanov,Alexander Shevchenko,0.8749610781669617
+Karen Khachanov,Mathias Bourgue,0.884323313832283
+Karen Khachanov,Constant Lestienne,0.8463862240314484
+Karen Khachanov,Calvin Hemery,0.8442635089159012
+Karen Khachanov,Stan Wawrinka,0.6367577314376831
+Karen Khachanov,Bernabe Zapata Miralles,0.851219430565834
+Karen Khachanov,Luca Van Assche,0.8906688690185547
+Karen Khachanov,Botic Van De Zandschulp,0.6250202655792236
+Karen Khachanov,Pierre Hugues Herbert,0.7759108394384384
+Karen Khachanov,Arthur Cazaux,0.8971671164035797
+Karen Khachanov,Alex De Minaur,0.5051371157169342
+Stan Wawrinka,Alexander Bublik,0.5497211217880249
+Stan Wawrinka,BYE,1.0
+Stan Wawrinka,Thiago Seyboth Wild,0.7758422940969467
+Stan Wawrinka,Fabio Fognini,0.6372556090354919
+Stan Wawrinka,Abedallah Shelbayh,0.8162818253040314
+Stan Wawrinka,Hugo Gaston,0.7095485329627991
+Stan Wawrinka,Marcos Giron,0.5592906177043915
+Stan Wawrinka,Lorenzo Sonego,0.5581243932247162
+Stan Wawrinka,Ugo Humbert,0.4925025552511215
+Stan Wawrinka,Matteo Martineau,0.7330144494771957
+Stan Wawrinka,Dominic Thiem,0.4906119108200073
+Stan Wawrinka,Harold Mayo,0.7330144494771957
+Stan Wawrinka,Yosuke Watanuki,0.7953977882862091
+Stan Wawrinka,Gregoire Barrere,0.7022315859794617
+Stan Wawrinka,Yannick Hanfmann,0.7239871919155121
+Stan Wawrinka,Daniel Altmaier,0.7113779932260513
+Stan Wawrinka,Mate Valkusz,0.7330144494771957
+Stan Wawrinka,Alexander Shevchenko,0.7807164192199707
+Stan Wawrinka,Mathias Bourgue,0.794462040066719
+Stan Wawrinka,Constant Lestienne,0.7408852577209473
+Stan Wawrinka,Calvin Hemery,0.7330144494771957
+Stan Wawrinka,Karen Khachanov,0.3632422685623169
+Stan Wawrinka,Bernabe Zapata Miralles,0.754456102848053
+Stan Wawrinka,Luca Van Assche,0.8108057975769043
+Stan Wawrinka,Botic Van De Zandschulp,0.5217350423336029
+Stan Wawrinka,Pierre Hugues Herbert,0.6365827023983002
+Stan Wawrinka,Arthur Cazaux,0.8180892467498779
+Stan Wawrinka,Alex De Minaur,0.39079156517982483
+Bernabe Zapata Miralles,Alexander Bublik,0.3962506055831909
+Bernabe Zapata Miralles,BYE,1.0
+Bernabe Zapata Miralles,Thiago Seyboth Wild,0.4491198658943176
+Bernabe Zapata Miralles,Fabio Fognini,0.4161166548728943
+Bernabe Zapata Miralles,Abedallah Shelbayh,0.5355415344238281
+Bernabe Zapata Miralles,Hugo Gaston,0.4063374400138855
+Bernabe Zapata Miralles,Marcos Giron,0.39552339911460876
+Bernabe Zapata Miralles,Lorenzo Sonego,0.42650115489959717
+Bernabe Zapata Miralles,Ugo Humbert,0.23140613734722137
+Bernabe Zapata Miralles,Matteo Martineau,0.4194323271512985
+Bernabe Zapata Miralles,Dominic Thiem,0.23764121532440186
+Bernabe Zapata Miralles,Harold Mayo,0.4194323271512985
+Bernabe Zapata Miralles,Yosuke Watanuki,0.5051492303609848
+Bernabe Zapata Miralles,Gregoire Barrere,0.4138179421424866
+Bernabe Zapata Miralles,Yannick Hanfmann,0.4131001830101013
+Bernabe Zapata Miralles,Daniel Altmaier,0.42159733176231384
+Bernabe Zapata Miralles,Mate Valkusz,0.4194323271512985
+Bernabe Zapata Miralles,Alexander Shevchenko,0.47066135704517365
+Bernabe Zapata Miralles,Mathias Bourgue,0.487994521856308
+Bernabe Zapata Miralles,Constant Lestienne,0.42417655885219574
+Bernabe Zapata Miralles,Calvin Hemery,0.4194323271512985
+Bernabe Zapata Miralles,Karen Khachanov,0.14878056943416595
+Bernabe Zapata Miralles,Stan Wawrinka,0.24554389715194702
+Bernabe Zapata Miralles,Luca Van Assche,0.5412545502185822
+Bernabe Zapata Miralles,Botic Van De Zandschulp,0.2853548228740692
+Bernabe Zapata Miralles,Pierre Hugues Herbert,0.3261217772960663
+Bernabe Zapata Miralles,Arthur Cazaux,0.5369092375040054
+Bernabe Zapata Miralles,Alex De Minaur,0.16473330557346344
+Luca Van Assche,Alexander Bublik,0.32126522064208984
+Luca Van Assche,BYE,1.0
+Luca Van Assche,Thiago Seyboth Wild,0.40439943969249725
+Luca Van Assche,Fabio Fognini,0.3441663086414337
+Luca Van Assche,Abedallah Shelbayh,0.49499449133872986
+Luca Van Assche,Hugo Gaston,0.36058509349823
+Luca Van Assche,Marcos Giron,0.3210502862930298
+Luca Van Assche,Lorenzo Sonego,0.3489878177642822
+Luca Van Assche,Ugo Humbert,0.17780664563179016
+Luca Van Assche,Matteo Martineau,0.38643357157707214
+Luca Van Assche,Dominic Thiem,0.1833939552307129
+Luca Van Assche,Harold Mayo,0.38643357157707214
+Luca Van Assche,Yosuke Watanuki,0.4629121720790863
+Luca Van Assche,Gregoire Barrere,0.36662808060646057
+Luca Van Assche,Yannick Hanfmann,0.3659169226884842
+Luca Van Assche,Daniel Altmaier,0.3734353184700012
+Luca Van Assche,Mate Valkusz,0.38643357157707214
+Luca Van Assche,Alexander Shevchenko,0.42696811258792877
+Luca Van Assche,Mathias Bourgue,0.44728825986385345
+Luca Van Assche,Constant Lestienne,0.38226404786109924
+Luca Van Assche,Calvin Hemery,0.38643357157707214
+Luca Van Assche,Karen Khachanov,0.10933113098144531
+Luca Van Assche,Stan Wawrinka,0.1891942024230957
+Luca Van Assche,Bernabe Zapata Miralles,0.45874544978141785
+Luca Van Assche,Botic Van De Zandschulp,0.22530679404735565
+Luca Van Assche,Pierre Hugues Herbert,0.26081499457359314
+Luca Van Assche,Arthur Cazaux,0.4959389865398407
+Luca Van Assche,Alex De Minaur,0.12176865339279175
+Botic Van De Zandschulp,Alexander Bublik,0.5283344835042953
+Botic Van De Zandschulp,BYE,1.0
+Botic Van De Zandschulp,Thiago Seyboth Wild,0.7344801425933838
+Botic Van De Zandschulp,Fabio Fognini,0.5840676575899124
+Botic Van De Zandschulp,Abedallah Shelbayh,0.7802522927522659
+Botic Van De Zandschulp,Hugo Gaston,0.6614789068698883
+Botic Van De Zandschulp,Marcos Giron,0.5309495776891708
+Botic Van De Zandschulp,Lorenzo Sonego,0.5324282944202423
+Botic Van De Zandschulp,Ugo Humbert,0.48210398852825165
+Botic Van De Zandschulp,Matteo Martineau,0.6869801878929138
+Botic Van De Zandschulp,Dominic Thiem,0.4769437313079834
+Botic Van De Zandschulp,Harold Mayo,0.6869801878929138
+Botic Van De Zandschulp,Yosuke Watanuki,0.7564997375011444
+Botic Van De Zandschulp,Gregoire Barrere,0.6535334438085556
+Botic Van De Zandschulp,Yannick Hanfmann,0.6771525144577026
+Botic Van De Zandschulp,Daniel Altmaier,0.663252979516983
+Botic Van De Zandschulp,Mate Valkusz,0.6869801878929138
+Botic Van De Zandschulp,Alexander Shevchenko,0.7399516701698303
+Botic Van De Zandschulp,Mathias Bourgue,0.7554394453763962
+Botic Van De Zandschulp,Constant Lestienne,0.6956131905317307
+Botic Van De Zandschulp,Calvin Hemery,0.6869801878929138
+Botic Van De Zandschulp,Karen Khachanov,0.37497973442077637
+Botic Van De Zandschulp,Stan Wawrinka,0.4782649576663971
+Botic Van De Zandschulp,Bernabe Zapata Miralles,0.7146451771259308
+Botic Van De Zandschulp,Luca Van Assche,0.7746932059526443
+Botic Van De Zandschulp,Pierre Hugues Herbert,0.5833732932806015
+Botic Van De Zandschulp,Arthur Cazaux,0.7823196351528168
+Botic Van De Zandschulp,Alex De Minaur,0.39342179894447327
+Pierre Hugues Herbert,Alexander Bublik,0.506422370672226
+Pierre Hugues Herbert,BYE,1.0
+Pierre Hugues Herbert,Thiago Seyboth Wild,0.674046516418457
+Pierre Hugues Herbert,Fabio Fognini,0.5454075932502747
+Pierre Hugues Herbert,Abedallah Shelbayh,0.7437953948974609
+Pierre Hugues Herbert,Hugo Gaston,0.6177563071250916
+Pierre Hugues Herbert,Marcos Giron,0.5089979469776154
+Pierre Hugues Herbert,Lorenzo Sonego,0.5164436250925064
+Pierre Hugues Herbert,Ugo Humbert,0.35186316072940826
+Pierre Hugues Herbert,Matteo Martineau,0.633719876408577
+Pierre Hugues Herbert,Dominic Thiem,0.3563353717327118
+Pierre Hugues Herbert,Harold Mayo,0.633719876408577
+Pierre Hugues Herbert,Yosuke Watanuki,0.718064934015274
+Pierre Hugues Herbert,Gregoire Barrere,0.6169939935207367
+Pierre Hugues Herbert,Yannick Hanfmann,0.6299808323383331
+Pierre Hugues Herbert,Daniel Altmaier,0.6257993280887604
+Pierre Hugues Herbert,Mate Valkusz,0.633719876408577
+Pierre Hugues Herbert,Alexander Shevchenko,0.6929239332675934
+Pierre Hugues Herbert,Mathias Bourgue,0.7075369358062744
+Pierre Hugues Herbert,Constant Lestienne,0.6497112959623337
+Pierre Hugues Herbert,Calvin Hemery,0.633719876408577
+Pierre Hugues Herbert,Karen Khachanov,0.22408916056156158
+Pierre Hugues Herbert,Stan Wawrinka,0.36341729760169983
+Pierre Hugues Herbert,Bernabe Zapata Miralles,0.6738782227039337
+Pierre Hugues Herbert,Luca Van Assche,0.7391850054264069
+Pierre Hugues Herbert,Botic Van De Zandschulp,0.4166267067193985
+Pierre Hugues Herbert,Arthur Cazaux,0.7452715039253235
+Pierre Hugues Herbert,Alex De Minaur,0.2448440045118332
+Arthur Cazaux,Alexander Bublik,0.31151282787323
+Arthur Cazaux,BYE,1.0
+Arthur Cazaux,Thiago Seyboth Wild,0.4082631766796112
+Arthur Cazaux,Fabio Fognini,0.33418795466423035
+Arthur Cazaux,Abedallah Shelbayh,0.49905556440353394
+Arthur Cazaux,Hugo Gaston,0.36458706855773926
+Arthur Cazaux,Marcos Giron,0.3112785220146179
+Arthur Cazaux,Lorenzo Sonego,0.33891159296035767
+Arthur Cazaux,Ugo Humbert,0.17140766978263855
+Arthur Cazaux,Matteo Martineau,0.3905193507671356
+Arthur Cazaux,Dominic Thiem,0.17628133296966553
+Arthur Cazaux,Harold Mayo,0.3905193507671356
+Arthur Cazaux,Yosuke Watanuki,0.4669431298971176
+Arthur Cazaux,Gregoire Barrere,0.37070100009441376
+Arthur Cazaux,Yannick Hanfmann,0.36902233958244324
+Arthur Cazaux,Daniel Altmaier,0.37744565308094025
+Arthur Cazaux,Mate Valkusz,0.3905193507671356
+Arthur Cazaux,Alexander Shevchenko,0.43090760707855225
+Arthur Cazaux,Mathias Bourgue,0.4513344019651413
+Arthur Cazaux,Constant Lestienne,0.3854180872440338
+Arthur Cazaux,Calvin Hemery,0.3905193507671356
+Arthur Cazaux,Karen Khachanov,0.10283288359642029
+Arthur Cazaux,Stan Wawrinka,0.18191075325012207
+Arthur Cazaux,Bernabe Zapata Miralles,0.46309076249599457
+Arthur Cazaux,Luca Van Assche,0.5040610134601593
+Arthur Cazaux,Botic Van De Zandschulp,0.21768036484718323
+Arthur Cazaux,Pierre Hugues Herbert,0.2547284960746765
+Arthur Cazaux,Alex De Minaur,0.11434465646743774
+Alex De Minaur,Alexander Bublik,0.5979380458593369
+Alex De Minaur,BYE,1.0
+Alex De Minaur,Thiago Seyboth Wild,0.8604668378829956
+Alex De Minaur,Fabio Fognini,0.7309257686138153
+Alex De Minaur,Abedallah Shelbayh,0.8843787014484406
+Alex De Minaur,Hugo Gaston,0.8072447627782822
+Alex De Minaur,Marcos Giron,0.6382123976945877
+Alex De Minaur,Lorenzo Sonego,0.6347863972187042
+Alex De Minaur,Ugo Humbert,0.5583676695823669
+Alex De Minaur,Matteo Martineau,0.8284841179847717
+Alex De Minaur,Dominic Thiem,0.5880186557769775
+Alex De Minaur,Harold Mayo,0.8284841179847717
+Alex De Minaur,Yosuke Watanuki,0.8684616982936859
+Alex De Minaur,Gregoire Barrere,0.7961990237236023
+Alex De Minaur,Yannick Hanfmann,0.8181493133306503
+Alex De Minaur,Daniel Altmaier,0.8069207668304443
+Alex De Minaur,Mate Valkusz,0.8284841179847717
+Alex De Minaur,Alexander Shevchenko,0.8613671511411667
+Alex De Minaur,Mathias Bourgue,0.8715732246637344
+Alex De Minaur,Constant Lestienne,0.8300070613622665
+Alex De Minaur,Calvin Hemery,0.8284841179847717
+Alex De Minaur,Karen Khachanov,0.4948628842830658
+Alex De Minaur,Stan Wawrinka,0.6092084348201752
+Alex De Minaur,Bernabe Zapata Miralles,0.8352666944265366
+Alex De Minaur,Luca Van Assche,0.8782313466072083
+Alex De Minaur,Botic Van De Zandschulp,0.6065782010555267
+Alex De Minaur,Pierre Hugues Herbert,0.7551559954881668
+Alex De Minaur,Arthur Cazaux,0.8856553435325623

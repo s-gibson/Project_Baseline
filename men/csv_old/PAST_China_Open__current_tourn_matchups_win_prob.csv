@@ -1,0 +1,993 @@
+player,player_opponent,win_prob_mean
+Carlos Alcaraz,Daniil Medvedev,0.098927364
+Carlos Alcaraz,Jannik Sinner,0.347559333
+Carlos Alcaraz,Andrey Rublev,0.559879959
+Carlos Alcaraz,Casper Ruud,0.625481114
+Carlos Alcaraz,Stefanos Tsitsipas,0.670849904
+Carlos Alcaraz,Alexander Zverev,0.71387665
+Carlos Alcaraz,Felix Auger Aliassime,0.738385916
+Carlos Alcaraz,Andy Murray,0.749591559
+Carlos Alcaraz,Grigor Dimitrov,0.753887624
+Carlos Alcaraz,Alex De Minaur,0.7602534
+Carlos Alcaraz,Karen Khachanov,0.783876687
+Carlos Alcaraz,Tommy Paul,0.791012347
+Carlos Alcaraz,Alejandro Davidovich Fokina,0.807154804
+Carlos Alcaraz,Diego Schwartzman,0.807232484
+Carlos Alcaraz,Cameron Norrie,0.813561827
+Carlos Alcaraz,Daniel Evans,0.81802392
+Carlos Alcaraz,Lorenzo Musetti,0.818374291
+Carlos Alcaraz,Holger Rune,0.820944563
+Carlos Alcaraz,Yoshihito Nishioka,0.830783203
+Carlos Alcaraz,Lorenzo Sonego,0.835441753
+Carlos Alcaraz,Jan Lennard Struff,0.841562495
+Carlos Alcaraz,Nicolas Jarry,0.842774138
+Carlos Alcaraz,Mackenzie Mcdonald,0.850368589
+Carlos Alcaraz,J J Wolf,0.850518346
+Carlos Alcaraz,Ugo Humbert,0.855111063
+Carlos Alcaraz,Lloyd Harris,0.855257109
+Carlos Alcaraz,Tomas Martin Etcheverry,0.85702616
+Carlos Alcaraz,Yannick Hanfmann,0.857927158
+Carlos Alcaraz,Matteo Arnaldi,0.858182058
+Carlos Alcaraz,Juncheng Sheng,0.862281576
+Carlos Alcaraz,Yi Zhou,0.862281576
+Yannick Hanfmann,Carlos Alcaraz,0.142072842
+Yannick Hanfmann,Karen Khachanov,0.320444226
+Yannick Hanfmann,Lorenzo Musetti,0.421054795
+Yannick Hanfmann,Lloyd Harris,0.481658384
+Yannick Hanfmann,Tomas Martin Etcheverry,0.481441081
+Yannick Hanfmann,Jan Lennard Struff,0.440664634
+Yannick Hanfmann,Casper Ruud,0.201106817
+Yannick Hanfmann,Holger Rune,0.361525923
+Yannick Hanfmann,Felix Auger Aliassime,0.331448466
+Yannick Hanfmann,Mackenzie Mcdonald,0.47215116
+Yannick Hanfmann,Grigor Dimitrov,0.300435409
+Yannick Hanfmann,Juncheng Sheng,0.501956776
+Yannick Hanfmann,Yoshihito Nishioka,0.424201638
+Yannick Hanfmann,Daniel Evans,0.364198178
+Yannick Hanfmann,Jannik Sinner,0.098905742
+Yannick Hanfmann,Alexander Zverev,0.269953668
+Yannick Hanfmann,Diego Schwartzman,0.393835902
+Yannick Hanfmann,Alejandro Davidovich Fokina,0.384797469
+Yannick Hanfmann,Yi Zhou,0.501956776
+Yannick Hanfmann,Matteo Arnaldi,0.500519603
+Yannick Hanfmann,J J Wolf,0.465977848
+Yannick Hanfmann,Nicolas Jarry,0.420654476
+Yannick Hanfmann,Stefanos Tsitsipas,0.294194847
+Yannick Hanfmann,Andrey Rublev,0.206736654
+Yannick Hanfmann,Cameron Norrie,0.385651201
+Yannick Hanfmann,Ugo Humbert,0.480795696
+Yannick Hanfmann,Lorenzo Sonego,0.453598052
+Yannick Hanfmann,Alex De Minaur,0.322069854
+Yannick Hanfmann,Andy Murray,0.287446588
+Yannick Hanfmann,Tommy Paul,0.356409967
+Yannick Hanfmann,Daniil Medvedev,0.03096731
+Karen Khachanov,Carlos Alcaraz,0.216123313
+Karen Khachanov,Yannick Hanfmann,0.679555774
+Karen Khachanov,Lorenzo Musetti,0.604918987
+Karen Khachanov,Lloyd Harris,0.668389857
+Karen Khachanov,Tomas Martin Etcheverry,0.670010537
+Karen Khachanov,Jan Lennard Struff,0.632454604
+Karen Khachanov,Casper Ruud,0.309622377
+Karen Khachanov,Holger Rune,0.564184904
+Karen Khachanov,Felix Auger Aliassime,0.480054975
+Karen Khachanov,Mackenzie Mcdonald,0.660013765
+Karen Khachanov,Grigor Dimitrov,0.461780578
+Karen Khachanov,Juncheng Sheng,0.684976578
+Karen Khachanov,Yoshihito Nishioka,0.617457226
+Karen Khachanov,Daniel Evans,0.565548003
+Karen Khachanov,Jannik Sinner,0.154144377
+Karen Khachanov,Alexander Zverev,0.409437552
+Karen Khachanov,Diego Schwartzman,0.580162704
+Karen Khachanov,Alejandro Davidovich Fokina,0.571370721
+Karen Khachanov,Yi Zhou,0.684976578
+Karen Khachanov,Matteo Arnaldi,0.679196313
+Karen Khachanov,J J Wolf,0.656679675
+Karen Khachanov,Nicolas Jarry,0.620831668
+Karen Khachanov,Stefanos Tsitsipas,0.413417101
+Karen Khachanov,Andrey Rublev,0.307984233
+Karen Khachanov,Cameron Norrie,0.579155803
+Karen Khachanov,Ugo Humbert,0.667887419
+Karen Khachanov,Lorenzo Sonego,0.638746187
+Karen Khachanov,Alex De Minaur,0.484303266
+Karen Khachanov,Andy Murray,0.447003245
+Karen Khachanov,Tommy Paul,0.534555197
+Karen Khachanov,Daniil Medvedev,0.049859375
+Lorenzo Musetti,Carlos Alcaraz,0.181625709
+Lorenzo Musetti,Yannick Hanfmann,0.578945205
+Lorenzo Musetti,Karen Khachanov,0.395081013
+Lorenzo Musetti,Lloyd Harris,0.561728358
+Lorenzo Musetti,Tomas Martin Etcheverry,0.561955288
+Lorenzo Musetti,Jan Lennard Struff,0.52058202
+Lorenzo Musetti,Casper Ruud,0.252899647
+Lorenzo Musetti,Holger Rune,0.440586686
+Lorenzo Musetti,Felix Auger Aliassime,0.401710436
+Lorenzo Musetti,Mackenzie Mcdonald,0.552404702
+Lorenzo Musetti,Grigor Dimitrov,0.37203756
+Lorenzo Musetti,Juncheng Sheng,0.581743538
+Lorenzo Musetti,Yoshihito Nishioka,0.503772497
+Lorenzo Musetti,Daniel Evans,0.444094867
+Lorenzo Musetti,Jannik Sinner,0.128675371
+Lorenzo Musetti,Alexander Zverev,0.331692994
+Lorenzo Musetti,Diego Schwartzman,0.472204924
+Lorenzo Musetti,Alejandro Davidovich Fokina,0.462694556
+Lorenzo Musetti,Yi Zhou,0.581743538
+Lorenzo Musetti,Matteo Arnaldi,0.579010427
+Lorenzo Musetti,J J Wolf,0.546690643
+Lorenzo Musetti,Nicolas Jarry,0.50298579
+Lorenzo Musetti,Stefanos Tsitsipas,0.358396098
+Lorenzo Musetti,Andrey Rublev,0.259998143
+Lorenzo Musetti,Cameron Norrie,0.46605663
+Lorenzo Musetti,Ugo Humbert,0.560947984
+Lorenzo Musetti,Lorenzo Sonego,0.532919586
+Lorenzo Musetti,Alex De Minaur,0.395576581
+Lorenzo Musetti,Andy Murray,0.357140556
+Lorenzo Musetti,Tommy Paul,0.43229261
+Lorenzo Musetti,Daniil Medvedev,0.040913925
+Lloyd Harris,Carlos Alcaraz,0.144742891
+Lloyd Harris,Yannick Hanfmann,0.518341616
+Lloyd Harris,Karen Khachanov,0.331610143
+Lloyd Harris,Lorenzo Musetti,0.438271642
+Lloyd Harris,Tomas Martin Etcheverry,0.499735326
+Lloyd Harris,Jan Lennard Struff,0.458911642
+Lloyd Harris,Casper Ruud,0.204619899
+Lloyd Harris,Holger Rune,0.377354637
+Lloyd Harris,Felix Auger Aliassime,0.339225084
+Lloyd Harris,Mackenzie Mcdonald,0.490471274
+Lloyd Harris,Grigor Dimitrov,0.309888527
+Lloyd Harris,Juncheng Sheng,0.520238459
+Lloyd Harris,Yoshihito Nishioka,0.442305043
+Lloyd Harris,Daniel Evans,0.379939079
+Lloyd Harris,Jannik Sinner,0.10085915
+Lloyd Harris,Alexander Zverev,0.274257571
+Lloyd Harris,Diego Schwartzman,0.409835786
+Lloyd Harris,Alejandro Davidovich Fokina,0.400668293
+Lloyd Harris,Yi Zhou,0.520238459
+Lloyd Harris,Matteo Arnaldi,0.51887539
+Lloyd Harris,J J Wolf,0.484286636
+Lloyd Harris,Nicolas Jarry,0.438613534
+Lloyd Harris,Stefanos Tsitsipas,0.298722416
+Lloyd Harris,Andrey Rublev,0.21031642
+Lloyd Harris,Cameron Norrie,0.400353611
+Lloyd Harris,Ugo Humbert,0.499134898
+Lloyd Harris,Lorenzo Sonego,0.47188732
+Lloyd Harris,Alex De Minaur,0.332514271
+Lloyd Harris,Andy Murray,0.295347244
+Lloyd Harris,Tommy Paul,0.3679851
+Lloyd Harris,Daniil Medvedev,0.031626925
+Tomas Martin Etcheverry,Carlos Alcaraz,0.14297384
+Tomas Martin Etcheverry,Yannick Hanfmann,0.518558919
+Tomas Martin Etcheverry,Karen Khachanov,0.329989463
+Tomas Martin Etcheverry,Lorenzo Musetti,0.438044712
+Tomas Martin Etcheverry,Lloyd Harris,0.500264674
+Tomas Martin Etcheverry,Jan Lennard Struff,0.459200084
+Tomas Martin Etcheverry,Casper Ruud,0.202116549
+Tomas Martin Etcheverry,Holger Rune,0.377592176
+Tomas Martin Etcheverry,Felix Auger Aliassime,0.336878985
+Tomas Martin Etcheverry,Mackenzie Mcdonald,0.490758747
+Tomas Martin Etcheverry,Grigor Dimitrov,0.307763591
+Tomas Martin Etcheverry,Juncheng Sheng,0.520436987
+Tomas Martin Etcheverry,Yoshihito Nishioka,0.442600176
+Tomas Martin Etcheverry,Daniel Evans,0.37997815
+Tomas Martin Etcheverry,Jannik Sinner,0.099488705
+Tomas Martin Etcheverry,Alexander Zverev,0.27136381
+Tomas Martin Etcheverry,Diego Schwartzman,0.409586728
+Tomas Martin Etcheverry,Alejandro Davidovich Fokina,0.400397405
+Tomas Martin Etcheverry,Yi Zhou,0.520436987
+Tomas Martin Etcheverry,Matteo Arnaldi,0.519095123
+Tomas Martin Etcheverry,J J Wolf,0.484586656
+Tomas Martin Etcheverry,Nicolas Jarry,0.439017966
+Tomas Martin Etcheverry,Stefanos Tsitsipas,0.295389116
+Tomas Martin Etcheverry,Andrey Rublev,0.207584634
+Tomas Martin Etcheverry,Cameron Norrie,0.400274143
+Tomas Martin Etcheverry,Ugo Humbert,0.499401659
+Tomas Martin Etcheverry,Lorenzo Sonego,0.472197935
+Tomas Martin Etcheverry,Alex De Minaur,0.330356985
+Tomas Martin Etcheverry,Andy Murray,0.293235838
+Tomas Martin Etcheverry,Tommy Paul,0.366195083
+Tomas Martin Etcheverry,Daniil Medvedev,0.031235844
+Jan Lennard Struff,Carlos Alcaraz,0.158437505
+Jan Lennard Struff,Yannick Hanfmann,0.559335366
+Jan Lennard Struff,Karen Khachanov,0.367545396
+Jan Lennard Struff,Lorenzo Musetti,0.47941798
+Jan Lennard Struff,Lloyd Harris,0.541088358
+Jan Lennard Struff,Tomas Martin Etcheverry,0.540799916
+Jan Lennard Struff,Casper Ruud,0.222814262
+Jan Lennard Struff,Holger Rune,0.416395754
+Jan Lennard Struff,Felix Auger Aliassime,0.373542413
+Jan Lennard Struff,Mackenzie Mcdonald,0.531569406
+Jan Lennard Struff,Grigor Dimitrov,0.343258783
+Jan Lennard Struff,Juncheng Sheng,0.561223954
+Jan Lennard Struff,Yoshihito Nishioka,0.483271539
+Jan Lennard Struff,Daniel Evans,0.419706002
+Jan Lennard Struff,Jannik Sinner,0.111124828
+Jan Lennard Struff,Alexander Zverev,0.299008876
+Jan Lennard Struff,Diego Schwartzman,0.450602293
+Jan Lennard Struff,Alejandro Davidovich Fokina,0.441288128
+Jan Lennard Struff,Yi Zhou,0.561223954
+Jan Lennard Struff,Matteo Arnaldi,0.559857473
+Jan Lennard Struff,J J Wolf,0.525384948
+Jan Lennard Struff,Nicolas Jarry,0.479238704
+Jan Lennard Struff,Stefanos Tsitsipas,0.321974993
+Jan Lennard Struff,Andrey Rublev,0.229207039
+Jan Lennard Struff,Cameron Norrie,0.440645739
+Jan Lennard Struff,Ugo Humbert,0.540224925
+Jan Lennard Struff,Lorenzo Sonego,0.51298672
+Jan Lennard Struff,Alex De Minaur,0.36740154
+Jan Lennard Struff,Andy Murray,0.327412575
+Jan Lennard Struff,Tommy Paul,0.407641664
+Jan Lennard Struff,Daniil Medvedev,0.034974262
+Casper Ruud,Carlos Alcaraz,0.374518886
+Casper Ruud,Yannick Hanfmann,0.798893183
+Casper Ruud,Karen Khachanov,0.690377623
+Casper Ruud,Lorenzo Musetti,0.747100353
+Casper Ruud,Lloyd Harris,0.795380101
+Casper Ruud,Tomas Martin Etcheverry,0.797883451
+Casper Ruud,Jan Lennard Struff,0.777185738
+Casper Ruud,Holger Rune,0.743399203
+Casper Ruud,Felix Auger Aliassime,0.650807053
+Casper Ruud,Mackenzie Mcdonald,0.788891867
+Casper Ruud,Grigor Dimitrov,0.652927339
+Casper Ruud,Juncheng Sheng,0.804833695
+Casper Ruud,Yoshihito Nishioka,0.762951761
+Casper Ruud,Daniel Evans,0.741954952
+Casper Ruud,Jannik Sinner,0.253682539
+Casper Ruud,Alexander Zverev,0.605438158
+Casper Ruud,Diego Schwartzman,0.732516766
+Casper Ruud,Alejandro Davidovich Fokina,0.731643617
+Casper Ruud,Yi Zhou,0.804833695
+Casper Ruud,Matteo Arnaldi,0.799234018
+Casper Ruud,J J Wolf,0.789103329
+Casper Ruud,Nicolas Jarry,0.777645037
+Casper Ruud,Stefanos Tsitsipas,0.570188761
+Casper Ruud,Andrey Rublev,0.456965357
+Casper Ruud,Cameron Norrie,0.739912614
+Casper Ruud,Ugo Humbert,0.795187801
+Casper Ruud,Lorenzo Sonego,0.769211918
+Casper Ruud,Alex De Minaur,0.667291641
+Casper Ruud,Andy Murray,0.643510073
+Casper Ruud,Tommy Paul,0.70845519
+Casper Ruud,Daniil Medvedev,0.076352149
+Holger Rune,Carlos Alcaraz,0.179055437
+Holger Rune,Yannick Hanfmann,0.638474077
+Holger Rune,Karen Khachanov,0.435815096
+Holger Rune,Lorenzo Musetti,0.559413314
+Holger Rune,Lloyd Harris,0.622645363
+Holger Rune,Tomas Martin Etcheverry,0.622407824
+Holger Rune,Jan Lennard Struff,0.583604246
+Holger Rune,Casper Ruud,0.256600797
+Holger Rune,Felix Auger Aliassime,0.426926777
+Holger Rune,Mackenzie Mcdonald,0.612996653
+Holger Rune,Grigor Dimitrov,0.401365712
+Holger Rune,Juncheng Sheng,0.640347332
+Holger Rune,Yoshihito Nishioka,0.567201585
+Holger Rune,Daniel Evans,0.502390295
+Holger Rune,Jannik Sinner,0.126438409
+Holger Rune,Alexander Zverev,0.34849368
+Holger Rune,Diego Schwartzman,0.529291332
+Holger Rune,Alejandro Davidovich Fokina,0.519791991
+Holger Rune,Yi Zhou,0.640347332
+Holger Rune,Matteo Arnaldi,0.639161944
+Holger Rune,J J Wolf,0.608017951
+Holger Rune,Nicolas Jarry,0.563249052
+Holger Rune,Stefanos Tsitsipas,0.362202242
+Holger Rune,Andrey Rublev,0.257429123
+Holger Rune,Cameron Norrie,0.51910077
+Holger Rune,Ugo Humbert,0.621828899
+Holger Rune,Lorenzo Sonego,0.593869492
+Holger Rune,Alex De Minaur,0.424125105
+Holger Rune,Andy Murray,0.384671703
+Holger Rune,Tommy Paul,0.478550792
+Holger Rune,Daniil Medvedev,0.04029876
+Felix Auger Aliassime,Carlos Alcaraz,0.261614084
+Felix Auger Aliassime,Yannick Hanfmann,0.668551534
+Felix Auger Aliassime,Karen Khachanov,0.519945025
+Felix Auger Aliassime,Lorenzo Musetti,0.598289564
+Felix Auger Aliassime,Lloyd Harris,0.660774916
+Felix Auger Aliassime,Tomas Martin Etcheverry,0.663121015
+Felix Auger Aliassime,Jan Lennard Struff,0.626457587
+Felix Auger Aliassime,Casper Ruud,0.349192947
+Felix Auger Aliassime,Holger Rune,0.573073223
+Felix Auger Aliassime,Mackenzie Mcdonald,0.652243271
+Felix Auger Aliassime,Grigor Dimitrov,0.486242771
+Felix Auger Aliassime,Juncheng Sheng,0.675961688
+Felix Auger Aliassime,Yoshihito Nishioka,0.610603988
+Felix Auger Aliassime,Daniel Evans,0.571782365
+Felix Auger Aliassime,Jannik Sinner,0.192961589
+Felix Auger Aliassime,Alexander Zverev,0.442096323
+Felix Auger Aliassime,Diego Schwartzman,0.578929633
+Felix Auger Aliassime,Alejandro Davidovich Fokina,0.572502896
+Felix Auger Aliassime,Yi Zhou,0.675961688
+Felix Auger Aliassime,Matteo Arnaldi,0.668805629
+Felix Auger Aliassime,J J Wolf,0.649712563
+Felix Auger Aliassime,Nicolas Jarry,0.621957794
+Felix Auger Aliassime,Stefanos Tsitsipas,0.443801403
+Felix Auger Aliassime,Andrey Rublev,0.347596794
+Felix Auger Aliassime,Cameron Norrie,0.583640039
+Felix Auger Aliassime,Ugo Humbert,0.660347998
+Felix Auger Aliassime,Lorenzo Sonego,0.627274364
+Felix Auger Aliassime,Alex De Minaur,0.507275552
+Felix Auger Aliassime,Andy Murray,0.47648105
+Felix Auger Aliassime,Tommy Paul,0.53976509
+Felix Auger Aliassime,Daniil Medvedev,0.064709768
+Mackenzie Mcdonald,Carlos Alcaraz,0.149631411
+Mackenzie Mcdonald,Yannick Hanfmann,0.52784884
+Mackenzie Mcdonald,Karen Khachanov,0.339986235
+Mackenzie Mcdonald,Lorenzo Musetti,0.447595298
+Mackenzie Mcdonald,Lloyd Harris,0.509528726
+Mackenzie Mcdonald,Tomas Martin Etcheverry,0.509241253
+Mackenzie Mcdonald,Jan Lennard Struff,0.468430594
+Mackenzie Mcdonald,Casper Ruud,0.211108133
+Mackenzie Mcdonald,Holger Rune,0.387003347
+Mackenzie Mcdonald,Felix Auger Aliassime,0.347756729
+Mackenzie Mcdonald,Grigor Dimitrov,0.317803413
+Mackenzie Mcdonald,Juncheng Sheng,0.529713601
+Mackenzie Mcdonald,Yoshihito Nishioka,0.451766968
+Mackenzie Mcdonald,Daniel Evans,0.389363945
+Mackenzie Mcdonald,Jannik Sinner,0.104484618
+Mackenzie Mcdonald,Alexander Zverev,0.282123357
+Mackenzie Mcdonald,Diego Schwartzman,0.419008404
+Mackenzie Mcdonald,Alejandro Davidovich Fokina,0.409825027
+Mackenzie Mcdonald,Yi Zhou,0.529713616
+Mackenzie Mcdonald,Matteo Arnaldi,0.528388932
+Mackenzie Mcdonald,J J Wolf,0.493816242
+Mackenzie Mcdonald,Nicolas Jarry,0.448014498
+Mackenzie Mcdonald,Stefanos Tsitsipas,0.307074606
+Mackenzie Mcdonald,Andrey Rublev,0.217011198
+Mackenzie Mcdonald,Cameron Norrie,0.409946591
+Mackenzie Mcdonald,Ugo Humbert,0.508663386
+Mackenzie Mcdonald,Lorenzo Sonego,0.481418744
+Mackenzie Mcdonald,Alex De Minaur,0.340561241
+Mackenzie Mcdonald,Andy Murray,0.303595096
+Mackenzie Mcdonald,Tommy Paul,0.376774013
+Mackenzie Mcdonald,Daniil Medvedev,0.03282173
+Grigor Dimitrov,Carlos Alcaraz,0.246112376
+Grigor Dimitrov,Yannick Hanfmann,0.699564591
+Grigor Dimitrov,Karen Khachanov,0.538219422
+Grigor Dimitrov,Lorenzo Musetti,0.62796244
+Grigor Dimitrov,Lloyd Harris,0.690111473
+Grigor Dimitrov,Tomas Martin Etcheverry,0.692236409
+Grigor Dimitrov,Jan Lennard Struff,0.656741217
+Grigor Dimitrov,Casper Ruud,0.347072661
+Grigor Dimitrov,Holger Rune,0.598634288
+Grigor Dimitrov,Felix Auger Aliassime,0.513757229
+Grigor Dimitrov,Mackenzie Mcdonald,0.682196587
+Grigor Dimitrov,Juncheng Sheng,0.705636382
+Grigor Dimitrov,Yoshihito Nishioka,0.641084731
+Grigor Dimitrov,Daniel Evans,0.598972648
+Grigor Dimitrov,Jannik Sinner,0.172985315
+Grigor Dimitrov,Alexander Zverev,0.44778657
+Grigor Dimitrov,Diego Schwartzman,0.606029838
+Grigor Dimitrov,Alejandro Davidovich Fokina,0.5993682
+Grigor Dimitrov,Yi Zhou,0.705636382
+Grigor Dimitrov,Matteo Arnaldi,0.699385613
+Grigor Dimitrov,J J Wolf,0.679268837
+Grigor Dimitrov,Nicolas Jarry,0.650500953
+Grigor Dimitrov,Stefanos Tsitsipas,0.44876048
+Grigor Dimitrov,Andrey Rublev,0.340590268
+Grigor Dimitrov,Cameron Norrie,0.609881893
+Grigor Dimitrov,Ugo Humbert,0.689679772
+Grigor Dimitrov,Lorenzo Sonego,0.658629224
+Grigor Dimitrov,Alex De Minaur,0.521573901
+Grigor Dimitrov,Andy Murray,0.487109244
+Grigor Dimitrov,Tommy Paul,0.565469384
+Grigor Dimitrov,Daniil Medvedev,0.056769505
+Juncheng Sheng,Carlos Alcaraz,0.137718424
+Juncheng Sheng,Yannick Hanfmann,0.498043224
+Juncheng Sheng,Karen Khachanov,0.315023422
+Juncheng Sheng,Lorenzo Musetti,0.418256462
+Juncheng Sheng,Lloyd Harris,0.479761541
+Juncheng Sheng,Tomas Martin Etcheverry,0.479563013
+Juncheng Sheng,Jan Lennard Struff,0.438776046
+Juncheng Sheng,Casper Ruud,0.195166305
+Juncheng Sheng,Holger Rune,0.359652668
+Juncheng Sheng,Felix Auger Aliassime,0.324038312
+Juncheng Sheng,Mackenzie Mcdonald,0.470286399
+Juncheng Sheng,Grigor Dimitrov,0.294363618
+Juncheng Sheng,Yoshihito Nishioka,0.422343746
+Juncheng Sheng,Daniel Evans,0.361829221
+Juncheng Sheng,Jannik Sinner,0.09564656
+Juncheng Sheng,Alexander Zverev,0.262743115
+Juncheng Sheng,Diego Schwartzman,0.390429556
+Juncheng Sheng,Alejandro Davidovich Fokina,0.381563246
+Juncheng Sheng,Yi Zhou,0.5
+Juncheng Sheng,Matteo Arnaldi,0.498559117
+Juncheng Sheng,J J Wolf,0.464127868
+Juncheng Sheng,Nicolas Jarry,0.418987006
+Juncheng Sheng,Stefanos Tsitsipas,0.286374182
+Juncheng Sheng,Andrey Rublev,0.200483024
+Juncheng Sheng,Cameron Norrie,0.382092923
+Juncheng Sheng,Ugo Humbert,0.478902191
+Juncheng Sheng,Lorenzo Sonego,0.451751918
+Juncheng Sheng,Alex De Minaur,0.316246629
+Juncheng Sheng,Andy Murray,0.281002134
+Juncheng Sheng,Tommy Paul,0.350379765
+Juncheng Sheng,Daniil Medvedev,0.029946983
+Yoshihito Nishioka,Carlos Alcaraz,0.169216797
+Yoshihito Nishioka,Yannick Hanfmann,0.575798362
+Yoshihito Nishioka,Karen Khachanov,0.382542774
+Yoshihito Nishioka,Lorenzo Musetti,0.496227503
+Yoshihito Nishioka,Lloyd Harris,0.557694957
+Yoshihito Nishioka,Tomas Martin Etcheverry,0.557399824
+Yoshihito Nishioka,Jan Lennard Struff,0.516728461
+Yoshihito Nishioka,Casper Ruud,0.237048239
+Yoshihito Nishioka,Holger Rune,0.432798415
+Yoshihito Nishioka,Felix Auger Aliassime,0.389396012
+Yoshihito Nishioka,Mackenzie Mcdonald,0.548233032
+Yoshihito Nishioka,Grigor Dimitrov,0.358915269
+Yoshihito Nishioka,Juncheng Sheng,0.577656254
+Yoshihito Nishioka,Daniel Evans,0.436169505
+Yoshihito Nishioka,Jannik Sinner,0.119240329
+Yoshihito Nishioka,Alexander Zverev,0.31509003
+Yoshihito Nishioka,Diego Schwartzman,0.467282772
+Yoshihito Nishioka,Alejandro Davidovich Fokina,0.457893834
+Yoshihito Nishioka,Yi Zhou,0.577656254
+Yoshihito Nishioka,Matteo Arnaldi,0.576317295
+Yoshihito Nishioka,J J Wolf,0.542079777
+Yoshihito Nishioka,Nicolas Jarry,0.495998591
+Yoshihito Nishioka,Stefanos Tsitsipas,0.339467883
+Yoshihito Nishioka,Andrey Rublev,0.243641764
+Yoshihito Nishioka,Cameron Norrie,0.457123876
+Yoshihito Nishioka,Ugo Humbert,0.556837067
+Yoshihito Nishioka,Lorenzo Sonego,0.529723272
+Yoshihito Nishioka,Alex De Minaur,0.382388815
+Yoshihito Nishioka,Andy Murray,0.342590004
+Yoshihito Nishioka,Tommy Paul,0.42266202
+Yoshihito Nishioka,Daniil Medvedev,0.037699312
+Daniel Evans,Carlos Alcaraz,0.18197608
+Daniel Evans,Yannick Hanfmann,0.635801822
+Daniel Evans,Karen Khachanov,0.434451997
+Daniel Evans,Lorenzo Musetti,0.555905133
+Daniel Evans,Lloyd Harris,0.620060921
+Daniel Evans,Tomas Martin Etcheverry,0.62002185
+Daniel Evans,Jan Lennard Struff,0.580293998
+Daniel Evans,Casper Ruud,0.258045048
+Daniel Evans,Holger Rune,0.497609705
+Daniel Evans,Felix Auger Aliassime,0.428217635
+Daniel Evans,Mackenzie Mcdonald,0.610636055
+Daniel Evans,Grigor Dimitrov,0.401027352
+Daniel Evans,Juncheng Sheng,0.638170779
+Daniel Evans,Yoshihito Nishioka,0.563830495
+Daniel Evans,Jannik Sinner,0.128838941
+Daniel Evans,Alexander Zverev,0.349114582
+Daniel Evans,Diego Schwartzman,0.526724756
+Daniel Evans,Alejandro Davidovich Fokina,0.517251551
+Daniel Evans,Yi Zhou,0.638170779
+Daniel Evans,Matteo Arnaldi,0.636181861
+Daniel Evans,J J Wolf,0.60551393
+Daniel Evans,Nicolas Jarry,0.56095773
+Daniel Evans,Stefanos Tsitsipas,0.364774078
+Daniel Evans,Andrey Rublev,0.260259598
+Daniel Evans,Cameron Norrie,0.51734063
+Daniel Evans,Ugo Humbert,0.619299024
+Daniel Evans,Lorenzo Sonego,0.591040879
+Daniel Evans,Alex De Minaur,0.423995733
+Daniel Evans,Andy Murray,0.38462466
+Daniel Evans,Tommy Paul,0.47698012
+Daniel Evans,Daniil Medvedev,0.041025758
+Jannik Sinner,Daniil Medvedev,0.185538143
+Jannik Sinner,Carlos Alcaraz,0.652440667
+Jannik Sinner,Andrey Rublev,0.681912273
+Jannik Sinner,Casper Ruud,0.746317461
+Jannik Sinner,Stefanos Tsitsipas,0.756235346
+Jannik Sinner,Alexander Zverev,0.800059184
+Jannik Sinner,Felix Auger Aliassime,0.807038411
+Jannik Sinner,Andy Murray,0.825530559
+Jannik Sinner,Alex De Minaur,0.826785535
+Jannik Sinner,Grigor Dimitrov,0.827014685
+Jannik Sinner,Karen Khachanov,0.845855623
+Jannik Sinner,Tommy Paul,0.849948183
+Jannik Sinner,Alejandro Davidovich Fokina,0.862719297
+Jannik Sinner,Diego Schwartzman,0.862719819
+Jannik Sinner,Cameron Norrie,0.867717713
+Jannik Sinner,Daniel Evans,0.871161059
+Jannik Sinner,Lorenzo Musetti,0.871324629
+Jannik Sinner,Holger Rune,0.873561591
+Jannik Sinner,Yoshihito Nishioka,0.880759671
+Jannik Sinner,Lorenzo Sonego,0.884288505
+Jannik Sinner,Jan Lennard Struff,0.888875172
+Jannik Sinner,Nicolas Jarry,0.890007034
+Jannik Sinner,Mackenzie Mcdonald,0.895515382
+Jannik Sinner,J J Wolf,0.895633459
+Jannik Sinner,Ugo Humbert,0.89903371
+Jannik Sinner,Lloyd Harris,0.89914085
+Jannik Sinner,Tomas Martin Etcheverry,0.900511295
+Jannik Sinner,Yannick Hanfmann,0.901094258
+Jannik Sinner,Matteo Arnaldi,0.901282877
+Jannik Sinner,Juncheng Sheng,0.90435344
+Jannik Sinner,Yi Zhou,0.90435344
+Alexander Zverev,Carlos Alcaraz,0.28612335
+Alexander Zverev,Yannick Hanfmann,0.730046332
+Alexander Zverev,Karen Khachanov,0.590562448
+Alexander Zverev,Lorenzo Musetti,0.668307006
+Alexander Zverev,Lloyd Harris,0.725742429
+Alexander Zverev,Tomas Martin Etcheverry,0.72863619
+Alexander Zverev,Jan Lennard Struff,0.700991124
+Alexander Zverev,Casper Ruud,0.394561842
+Alexander Zverev,Holger Rune,0.65150632
+Alexander Zverev,Felix Auger Aliassime,0.557903677
+Alexander Zverev,Mackenzie Mcdonald,0.717876643
+Alexander Zverev,Grigor Dimitrov,0.55221343
+Alexander Zverev,Juncheng Sheng,0.737256885
+Alexander Zverev,Yoshihito Nishioka,0.68490997
+Alexander Zverev,Daniel Evans,0.650885418
+Alexander Zverev,Jannik Sinner,0.199940816
+Alexander Zverev,Diego Schwartzman,0.648394763
+Alexander Zverev,Alejandro Davidovich Fokina,0.645388454
+Alexander Zverev,Yi Zhou,0.737256885
+Alexander Zverev,Matteo Arnaldi,0.730461657
+Alexander Zverev,J J Wolf,0.718083858
+Alexander Zverev,Nicolas Jarry,0.697760746
+Alexander Zverev,Stefanos Tsitsipas,0.482733667
+Alexander Zverev,Andrey Rublev,0.378638253
+Alexander Zverev,Cameron Norrie,0.657458633
+Alexander Zverev,Ugo Humbert,0.725507513
+Alexander Zverev,Lorenzo Sonego,0.69439964
+Alexander Zverev,Alex De Minaur,0.571657956
+Alexander Zverev,Andy Murray,0.539538175
+Alexander Zverev,Tommy Paul,0.615533128
+Alexander Zverev,Daniil Medvedev,0.065953583
+Diego Schwartzman,Carlos Alcaraz,0.192767516
+Diego Schwartzman,Yannick Hanfmann,0.606164098
+Diego Schwartzman,Karen Khachanov,0.419837296
+Diego Schwartzman,Lorenzo Musetti,0.527795076
+Diego Schwartzman,Lloyd Harris,0.590164214
+Diego Schwartzman,Tomas Martin Etcheverry,0.590413272
+Diego Schwartzman,Jan Lennard Struff,0.549397707
+Diego Schwartzman,Casper Ruud,0.267483234
+Diego Schwartzman,Holger Rune,0.470708668
+Diego Schwartzman,Felix Auger Aliassime,0.421070367
+Diego Schwartzman,Mackenzie Mcdonald,0.580991596
+Diego Schwartzman,Grigor Dimitrov,0.393970162
+Diego Schwartzman,Juncheng Sheng,0.609570444
+Diego Schwartzman,Yoshihito Nishioka,0.532717228
+Diego Schwartzman,Daniel Evans,0.473275244
+Diego Schwartzman,Jannik Sinner,0.137280181
+Diego Schwartzman,Alexander Zverev,0.351605237
+Diego Schwartzman,Alejandro Davidovich Fokina,0.490688026
+Diego Schwartzman,Yi Zhou,0.609570444
+Diego Schwartzman,Matteo Arnaldi,0.606114462
+Diego Schwartzman,J J Wolf,0.575351715
+Diego Schwartzman,Nicolas Jarry,0.532052428
+Diego Schwartzman,Stefanos Tsitsipas,0.371505097
+Diego Schwartzman,Andrey Rublev,0.274508744
+Diego Schwartzman,Cameron Norrie,0.493531317
+Diego Schwartzman,Ugo Humbert,0.589397728
+Diego Schwartzman,Lorenzo Sonego,0.560562253
+Diego Schwartzman,Alex De Minaur,0.417303219
+Diego Schwartzman,Andy Murray,0.379524022
+Diego Schwartzman,Tommy Paul,0.456052721
+Diego Schwartzman,Daniil Medvedev,0.043873236
+Alejandro Davidovich Fokina,Carlos Alcaraz,0.192845196
+Alejandro Davidovich Fokina,Yannick Hanfmann,0.615202531
+Alejandro Davidovich Fokina,Karen Khachanov,0.428629279
+Alejandro Davidovich Fokina,Lorenzo Musetti,0.537305444
+Alejandro Davidovich Fokina,Lloyd Harris,0.599331707
+Alejandro Davidovich Fokina,Tomas Martin Etcheverry,0.599602595
+Alejandro Davidovich Fokina,Jan Lennard Struff,0.558711872
+Alejandro Davidovich Fokina,Casper Ruud,0.268356383
+Alejandro Davidovich Fokina,Holger Rune,0.480208009
+Alejandro Davidovich Fokina,Felix Auger Aliassime,0.427497104
+Alejandro Davidovich Fokina,Mackenzie Mcdonald,0.590174973
+Alejandro Davidovich Fokina,Grigor Dimitrov,0.4006318
+Alejandro Davidovich Fokina,Juncheng Sheng,0.618436754
+Alejandro Davidovich Fokina,Yoshihito Nishioka,0.542106166
+Alejandro Davidovich Fokina,Daniel Evans,0.482748449
+Alejandro Davidovich Fokina,Jannik Sinner,0.137280703
+Alejandro Davidovich Fokina,Alexander Zverev,0.354611546
+Alejandro Davidovich Fokina,Diego Schwartzman,0.509311974
+Alejandro Davidovich Fokina,Yi Zhou,0.618436739
+Alejandro Davidovich Fokina,Matteo Arnaldi,0.615333438
+Alejandro Davidovich Fokina,J J Wolf,0.584609717
+Alejandro Davidovich Fokina,Nicolas Jarry,0.54151395
+Alejandro Davidovich Fokina,Stefanos Tsitsipas,0.37384671
+Alejandro Davidovich Fokina,Andrey Rublev,0.274526447
+Alejandro Davidovich Fokina,Cameron Norrie,0.502708524
+Alejandro Davidovich Fokina,Ugo Humbert,0.598571092
+Alejandro Davidovich Fokina,Lorenzo Sonego,0.569682434
+Alejandro Davidovich Fokina,Alex De Minaur,0.424682721
+Alejandro Davidovich Fokina,Andy Murray,0.38592793
+Alejandro Davidovich Fokina,Tommy Paul,0.464870214
+Alejandro Davidovich Fokina,Daniil Medvedev,0.043897659
+Yi Zhou,Carlos Alcaraz,0.137718424
+Yi Zhou,Yannick Hanfmann,0.498043224
+Yi Zhou,Karen Khachanov,0.315023422
+Yi Zhou,Lorenzo Musetti,0.418256462
+Yi Zhou,Lloyd Harris,0.479761541
+Yi Zhou,Tomas Martin Etcheverry,0.479563013
+Yi Zhou,Jan Lennard Struff,0.438776046
+Yi Zhou,Casper Ruud,0.195166305
+Yi Zhou,Holger Rune,0.359652668
+Yi Zhou,Felix Auger Aliassime,0.324038312
+Yi Zhou,Mackenzie Mcdonald,0.470286384
+Yi Zhou,Grigor Dimitrov,0.294363618
+Yi Zhou,Juncheng Sheng,0.5
+Yi Zhou,Yoshihito Nishioka,0.422343746
+Yi Zhou,Daniel Evans,0.361829221
+Yi Zhou,Jannik Sinner,0.09564656
+Yi Zhou,Alexander Zverev,0.262743115
+Yi Zhou,Diego Schwartzman,0.390429556
+Yi Zhou,Alejandro Davidovich Fokina,0.381563261
+Yi Zhou,Matteo Arnaldi,0.498559117
+Yi Zhou,J J Wolf,0.464127868
+Yi Zhou,Nicolas Jarry,0.418987006
+Yi Zhou,Stefanos Tsitsipas,0.286374182
+Yi Zhou,Andrey Rublev,0.200483024
+Yi Zhou,Cameron Norrie,0.382092923
+Yi Zhou,Ugo Humbert,0.478902191
+Yi Zhou,Lorenzo Sonego,0.451751918
+Yi Zhou,Alex De Minaur,0.316246629
+Yi Zhou,Andy Murray,0.281002134
+Yi Zhou,Tommy Paul,0.350379765
+Yi Zhou,Daniil Medvedev,0.029946983
+Matteo Arnaldi,Carlos Alcaraz,0.141817942
+Matteo Arnaldi,Yannick Hanfmann,0.499480397
+Matteo Arnaldi,Karen Khachanov,0.320803687
+Matteo Arnaldi,Lorenzo Musetti,0.420989573
+Matteo Arnaldi,Lloyd Harris,0.48112461
+Matteo Arnaldi,Tomas Martin Etcheverry,0.480904877
+Matteo Arnaldi,Jan Lennard Struff,0.440142527
+Matteo Arnaldi,Casper Ruud,0.200765982
+Matteo Arnaldi,Holger Rune,0.360838056
+Matteo Arnaldi,Felix Auger Aliassime,0.331194371
+Matteo Arnaldi,Mackenzie Mcdonald,0.471611068
+Matteo Arnaldi,Grigor Dimitrov,0.300614387
+Matteo Arnaldi,Juncheng Sheng,0.501440883
+Matteo Arnaldi,Yoshihito Nishioka,0.423682705
+Matteo Arnaldi,Daniel Evans,0.363818139
+Matteo Arnaldi,Jannik Sinner,0.098717123
+Matteo Arnaldi,Alexander Zverev,0.269538343
+Matteo Arnaldi,Diego Schwartzman,0.393885538
+Matteo Arnaldi,Alejandro Davidovich Fokina,0.384666562
+Matteo Arnaldi,Yi Zhou,0.501440883
+Matteo Arnaldi,J J Wolf,0.465435252
+Matteo Arnaldi,Nicolas Jarry,0.420087516
+Matteo Arnaldi,Stefanos Tsitsipas,0.293751836
+Matteo Arnaldi,Andrey Rublev,0.206383929
+Matteo Arnaldi,Cameron Norrie,0.385366291
+Matteo Arnaldi,Ugo Humbert,0.480261266
+Matteo Arnaldi,Lorenzo Sonego,0.45305796
+Matteo Arnaldi,Alex De Minaur,0.322431117
+Matteo Arnaldi,Andy Murray,0.287377745
+Matteo Arnaldi,Tommy Paul,0.356799409
+Matteo Arnaldi,Daniil Medvedev,0.030905724
+J J Wolf,Carlos Alcaraz,0.149481654
+J J Wolf,Yannick Hanfmann,0.534022152
+J J Wolf,Karen Khachanov,0.343320325
+J J Wolf,Lorenzo Musetti,0.453309357
+J J Wolf,Lloyd Harris,0.515713364
+J J Wolf,Tomas Martin Etcheverry,0.515413344
+J J Wolf,Jan Lennard Struff,0.474615052
+J J Wolf,Casper Ruud,0.210896671
+J J Wolf,Holger Rune,0.391982049
+J J Wolf,Felix Auger Aliassime,0.350287437
+J J Wolf,Mackenzie Mcdonald,0.506183758
+J J Wolf,Grigor Dimitrov,0.320731163
+J J Wolf,Juncheng Sheng,0.535872132
+J J Wolf,Yoshihito Nishioka,0.457920223
+J J Wolf,Daniel Evans,0.39448607
+J J Wolf,Jannik Sinner,0.104366541
+J J Wolf,Alexander Zverev,0.281916142
+J J Wolf,Diego Schwartzman,0.424648285
+J J Wolf,Alejandro Davidovich Fokina,0.415390283
+J J Wolf,Yi Zhou,0.535872132
+J J Wolf,Matteo Arnaldi,0.534564748
+J J Wolf,Nicolas Jarry,0.454111442
+J J Wolf,Stefanos Tsitsipas,0.306797594
+J J Wolf,Andrey Rublev,0.216778681
+J J Wolf,Cameron Norrie,0.414966911
+J J Wolf,Ugo Humbert,0.514847875
+J J Wolf,Lorenzo Sonego,0.487604469
+J J Wolf,Alex De Minaur,0.343605995
+J J Wolf,Andy Murray,0.305600315
+J J Wolf,Tommy Paul,0.380340099
+J J Wolf,Daniil Medvedev,0.032788515
+Nicolas Jarry,Carlos Alcaraz,0.157225862
+Nicolas Jarry,Yannick Hanfmann,0.579345524
+Nicolas Jarry,Karen Khachanov,0.379168332
+Nicolas Jarry,Lorenzo Musetti,0.49701421
+Nicolas Jarry,Lloyd Harris,0.561386466
+Nicolas Jarry,Tomas Martin Etcheverry,0.560982034
+Nicolas Jarry,Jan Lennard Struff,0.520761296
+Nicolas Jarry,Casper Ruud,0.222354963
+Nicolas Jarry,Holger Rune,0.436750948
+Nicolas Jarry,Felix Auger Aliassime,0.378042206
+Nicolas Jarry,Mackenzie Mcdonald,0.551985502
+Nicolas Jarry,Grigor Dimitrov,0.349499047
+Nicolas Jarry,Juncheng Sheng,0.581012994
+Nicolas Jarry,Yoshihito Nishioka,0.504001409
+Nicolas Jarry,Daniel Evans,0.43904227
+Nicolas Jarry,Jannik Sinner,0.109992966
+Nicolas Jarry,Alexander Zverev,0.302239254
+Nicolas Jarry,Diego Schwartzman,0.467947572
+Nicolas Jarry,Alejandro Davidovich Fokina,0.45848605
+Nicolas Jarry,Yi Zhou,0.581012994
+Nicolas Jarry,Matteo Arnaldi,0.579912484
+Nicolas Jarry,J J Wolf,0.545888558
+Nicolas Jarry,Stefanos Tsitsipas,0.321268201
+Nicolas Jarry,Andrey Rublev,0.226700872
+Nicolas Jarry,Cameron Norrie,0.458158612
+Nicolas Jarry,Ugo Humbert,0.560531676
+Nicolas Jarry,Lorenzo Sonego,0.533660561
+Nicolas Jarry,Alex De Minaur,0.371880263
+Nicolas Jarry,Andy Murray,0.333656549
+Nicolas Jarry,Tommy Paul,0.418600142
+Nicolas Jarry,Daniil Medvedev,0.034785196
+Stefanos Tsitsipas,Carlos Alcaraz,0.329150096
+Stefanos Tsitsipas,Yannick Hanfmann,0.705805153
+Stefanos Tsitsipas,Karen Khachanov,0.586582899
+Stefanos Tsitsipas,Lorenzo Musetti,0.641603902
+Stefanos Tsitsipas,Lloyd Harris,0.701277584
+Stefanos Tsitsipas,Tomas Martin Etcheverry,0.704610884
+Stefanos Tsitsipas,Jan Lennard Struff,0.678025007
+Stefanos Tsitsipas,Casper Ruud,0.429811239
+Stefanos Tsitsipas,Holger Rune,0.637797758
+Stefanos Tsitsipas,Felix Auger Aliassime,0.556198597
+Stefanos Tsitsipas,Mackenzie Mcdonald,0.692925394
+Stefanos Tsitsipas,Grigor Dimitrov,0.55123952
+Stefanos Tsitsipas,Juncheng Sheng,0.713625818
+Stefanos Tsitsipas,Yoshihito Nishioka,0.660532117
+Stefanos Tsitsipas,Daniel Evans,0.635225922
+Stefanos Tsitsipas,Jannik Sinner,0.243764654
+Stefanos Tsitsipas,Alexander Zverev,0.517266333
+Stefanos Tsitsipas,Diego Schwartzman,0.628494903
+Stefanos Tsitsipas,Alejandro Davidovich Fokina,0.62615329
+Stefanos Tsitsipas,Yi Zhou,0.713625818
+Stefanos Tsitsipas,Matteo Arnaldi,0.706248164
+Stefanos Tsitsipas,J J Wolf,0.693202406
+Stefanos Tsitsipas,Nicolas Jarry,0.678731799
+Stefanos Tsitsipas,Andrey Rublev,0.419477135
+Stefanos Tsitsipas,Cameron Norrie,0.634632453
+Stefanos Tsitsipas,Ugo Humbert,0.701030016
+Stefanos Tsitsipas,Lorenzo Sonego,0.668039396
+Stefanos Tsitsipas,Alex De Minaur,0.567286849
+Stefanos Tsitsipas,Andy Murray,0.545656443
+Stefanos Tsitsipas,Tommy Paul,0.603491321
+Stefanos Tsitsipas,Daniil Medvedev,0.091249511
+Andrey Rublev,Carlos Alcaraz,0.440120041
+Andrey Rublev,Yannick Hanfmann,0.793263346
+Andrey Rublev,Karen Khachanov,0.692015767
+Andrey Rublev,Lorenzo Musetti,0.740001857
+Andrey Rublev,Lloyd Harris,0.78968358
+Andrey Rublev,Tomas Martin Etcheverry,0.792415366
+Andrey Rublev,Jan Lennard Struff,0.770792961
+Andrey Rublev,Casper Ruud,0.543034643
+Andrey Rublev,Holger Rune,0.742570877
+Andrey Rublev,Felix Auger Aliassime,0.652403206
+Andrey Rublev,Mackenzie Mcdonald,0.782988802
+Andrey Rublev,Grigor Dimitrov,0.659409732
+Andrey Rublev,Juncheng Sheng,0.799516976
+Andrey Rublev,Yoshihito Nishioka,0.756358236
+Andrey Rublev,Daniel Evans,0.739740402
+Andrey Rublev,Jannik Sinner,0.318087727
+Andrey Rublev,Alexander Zverev,0.621361747
+Andrey Rublev,Diego Schwartzman,0.725491256
+Andrey Rublev,Alejandro Davidovich Fokina,0.725473553
+Andrey Rublev,Yi Zhou,0.799516976
+Andrey Rublev,Matteo Arnaldi,0.793616071
+Andrey Rublev,J J Wolf,0.783221319
+Andrey Rublev,Nicolas Jarry,0.773299128
+Andrey Rublev,Stefanos Tsitsipas,0.580522865
+Andrey Rublev,Cameron Norrie,0.733875632
+Andrey Rublev,Ugo Humbert,0.789487138
+Andrey Rublev,Lorenzo Sonego,0.762605757
+Andrey Rublev,Alex De Minaur,0.671023756
+Andrey Rublev,Andy Murray,0.65238215
+Andrey Rublev,Tommy Paul,0.70428136
+Andrey Rublev,Daniil Medvedev,0.11679092
+Cameron Norrie,Carlos Alcaraz,0.186438173
+Cameron Norrie,Yannick Hanfmann,0.614348799
+Cameron Norrie,Karen Khachanov,0.420844197
+Cameron Norrie,Lorenzo Musetti,0.53394337
+Cameron Norrie,Lloyd Harris,0.599646389
+Cameron Norrie,Tomas Martin Etcheverry,0.599725857
+Cameron Norrie,Jan Lennard Struff,0.559354261
+Cameron Norrie,Casper Ruud,0.260087386
+Cameron Norrie,Holger Rune,0.48089923
+Cameron Norrie,Felix Auger Aliassime,0.416359961
+Cameron Norrie,Mackenzie Mcdonald,0.590053409
+Cameron Norrie,Grigor Dimitrov,0.390118107
+Cameron Norrie,Juncheng Sheng,0.617907077
+Cameron Norrie,Yoshihito Nishioka,0.542876124
+Cameron Norrie,Daniel Evans,0.48265937
+Cameron Norrie,Jannik Sinner,0.132282287
+Cameron Norrie,Alexander Zverev,0.342541367
+Cameron Norrie,Diego Schwartzman,0.506468683
+Cameron Norrie,Alejandro Davidovich Fokina,0.497291476
+Cameron Norrie,Yi Zhou,0.617907077
+Cameron Norrie,Matteo Arnaldi,0.614633709
+Cameron Norrie,J J Wolf,0.585033089
+Cameron Norrie,Nicolas Jarry,0.541841388
+Cameron Norrie,Stefanos Tsitsipas,0.365367547
+Cameron Norrie,Andrey Rublev,0.266124368
+Cameron Norrie,Ugo Humbert,0.598885894
+Cameron Norrie,Lorenzo Sonego,0.569493771
+Cameron Norrie,Alex De Minaur,0.411557749
+Cameron Norrie,Andy Murray,0.373858482
+Cameron Norrie,Tommy Paul,0.458808213
+Cameron Norrie,Daniil Medvedev,0.042195469
+Ugo Humbert,Carlos Alcaraz,0.144888937
+Ugo Humbert,Yannick Hanfmann,0.519204304
+Ugo Humbert,Karen Khachanov,0.332112581
+Ugo Humbert,Lorenzo Musetti,0.439052016
+Ugo Humbert,Lloyd Harris,0.500865102
+Ugo Humbert,Tomas Martin Etcheverry,0.500598341
+Ugo Humbert,Jan Lennard Struff,0.459775075
+Ugo Humbert,Casper Ruud,0.204812199
+Ugo Humbert,Holger Rune,0.378171101
+Ugo Humbert,Felix Auger Aliassime,0.339652002
+Ugo Humbert,Mackenzie Mcdonald,0.491336614
+Ugo Humbert,Grigor Dimitrov,0.310320228
+Ugo Humbert,Juncheng Sheng,0.521097809
+Ugo Humbert,Yoshihito Nishioka,0.443162933
+Ugo Humbert,Daniel Evans,0.380700976
+Ugo Humbert,Jannik Sinner,0.10096629
+Ugo Humbert,Alexander Zverev,0.274492487
+Ugo Humbert,Diego Schwartzman,0.410602272
+Ugo Humbert,Alejandro Davidovich Fokina,0.401428908
+Ugo Humbert,Yi Zhou,0.521097809
+Ugo Humbert,Matteo Arnaldi,0.519738734
+Ugo Humbert,J J Wolf,0.485152125
+Ugo Humbert,Nicolas Jarry,0.439468324
+Ugo Humbert,Stefanos Tsitsipas,0.298969984
+Ugo Humbert,Andrey Rublev,0.210512862
+Ugo Humbert,Cameron Norrie,0.401114106
+Ugo Humbert,Lorenzo Sonego,0.472752824
+Ugo Humbert,Alex De Minaur,0.332959563
+Ugo Humbert,Andy Murray,0.295708746
+Ugo Humbert,Tommy Paul,0.368513495
+Ugo Humbert,Daniil Medvedev,0.031662971
+Lorenzo Sonego,Carlos Alcaraz,0.164558247
+Lorenzo Sonego,Yannick Hanfmann,0.546401948
+Lorenzo Sonego,Karen Khachanov,0.361253813
+Lorenzo Sonego,Lorenzo Musetti,0.467080414
+Lorenzo Sonego,Lloyd Harris,0.52811268
+Lorenzo Sonego,Tomas Martin Etcheverry,0.527802065
+Lorenzo Sonego,Jan Lennard Struff,0.48701328
+Lorenzo Sonego,Casper Ruud,0.230788082
+Lorenzo Sonego,Holger Rune,0.406130508
+Lorenzo Sonego,Felix Auger Aliassime,0.372725636
+Lorenzo Sonego,Mackenzie Mcdonald,0.518581256
+Lorenzo Sonego,Grigor Dimitrov,0.341370776
+Lorenzo Sonego,Juncheng Sheng,0.548248082
+Lorenzo Sonego,Yoshihito Nishioka,0.470276728
+Lorenzo Sonego,Daniel Evans,0.408959121
+Lorenzo Sonego,Jannik Sinner,0.115711495
+Lorenzo Sonego,Alexander Zverev,0.30560036
+Lorenzo Sonego,Diego Schwartzman,0.439437747
+Lorenzo Sonego,Alejandro Davidovich Fokina,0.430317566
+Lorenzo Sonego,Yi Zhou,0.548248082
+Lorenzo Sonego,Matteo Arnaldi,0.54694204
+Lorenzo Sonego,J J Wolf,0.512395531
+Lorenzo Sonego,Nicolas Jarry,0.466339439
+Lorenzo Sonego,Stefanos Tsitsipas,0.331960604
+Lorenzo Sonego,Andrey Rublev,0.237394243
+Lorenzo Sonego,Cameron Norrie,0.430506229
+Lorenzo Sonego,Ugo Humbert,0.527247176
+Lorenzo Sonego,Alex De Minaur,0.362970442
+Lorenzo Sonego,Andy Murray,0.327318847
+Lorenzo Sonego,Tommy Paul,0.398889542
+Lorenzo Sonego,Daniil Medvedev,0.036517978
+Alex De Minaur,Carlos Alcaraz,0.2397466
+Alex De Minaur,Yannick Hanfmann,0.677930146
+Alex De Minaur,Karen Khachanov,0.515696734
+Alex De Minaur,Lorenzo Musetti,0.604423419
+Alex De Minaur,Lloyd Harris,0.667485729
+Alex De Minaur,Tomas Martin Etcheverry,0.669643015
+Alex De Minaur,Jan Lennard Struff,0.63259846
+Alex De Minaur,Casper Ruud,0.332708359
+Alex De Minaur,Holger Rune,0.575874895
+Alex De Minaur,Felix Auger Aliassime,0.492724448
+Alex De Minaur,Mackenzie Mcdonald,0.659438759
+Alex De Minaur,Grigor Dimitrov,0.478426099
+Alex De Minaur,Juncheng Sheng,0.683753371
+Alex De Minaur,Yoshihito Nishioka,0.617611185
+Alex De Minaur,Daniel Evans,0.576004267
+Alex De Minaur,Jannik Sinner,0.173214465
+Alex De Minaur,Alexander Zverev,0.428342044
+Alex De Minaur,Diego Schwartzman,0.582696781
+Alex De Minaur,Alejandro Davidovich Fokina,0.575317279
+Alex De Minaur,Yi Zhou,0.683753371
+Alex De Minaur,Matteo Arnaldi,0.677568883
+Alex De Minaur,J J Wolf,0.656394005
+Alex De Minaur,Nicolas Jarry,0.628119737
+Alex De Minaur,Stefanos Tsitsipas,0.432713151
+Alex De Minaur,Andrey Rublev,0.328976244
+Alex De Minaur,Cameron Norrie,0.588442251
+Alex De Minaur,Ugo Humbert,0.667040437
+Alex De Minaur,Lorenzo Sonego,0.637029558
+Alex De Minaur,Andy Murray,0.465791702
+Alex De Minaur,Tommy Paul,0.542465776
+Alex De Minaur,Daniil Medvedev,0.056849524
+Andy Murray,Carlos Alcaraz,0.250408441
+Andy Murray,Yannick Hanfmann,0.712553412
+Andy Murray,Karen Khachanov,0.552996755
+Andy Murray,Lorenzo Musetti,0.642859444
+Andy Murray,Lloyd Harris,0.704652756
+Andy Murray,Tomas Martin Etcheverry,0.706764162
+Andy Murray,Jan Lennard Struff,0.672587425
+Andy Murray,Casper Ruud,0.356489927
+Andy Murray,Holger Rune,0.615328297
+Andy Murray,Felix Auger Aliassime,0.52351895
+Andy Murray,Mackenzie Mcdonald,0.696404904
+Andy Murray,Grigor Dimitrov,0.512890756
+Andy Murray,Juncheng Sheng,0.718997866
+Andy Murray,Yoshihito Nishioka,0.657409996
+Andy Murray,Daniel Evans,0.61537534
+Andy Murray,Jannik Sinner,0.174469441
+Andy Murray,Alexander Zverev,0.460461825
+Andy Murray,Diego Schwartzman,0.620475978
+Andy Murray,Alejandro Davidovich Fokina,0.61407207
+Andy Murray,Yi Zhou,0.718997866
+Andy Murray,Matteo Arnaldi,0.712622255
+Andy Murray,J J Wolf,0.694399685
+Andy Murray,Nicolas Jarry,0.666343451
+Andy Murray,Stefanos Tsitsipas,0.454343557
+Andy Murray,Andrey Rublev,0.34761785
+Andy Murray,Cameron Norrie,0.626141518
+Andy Murray,Ugo Humbert,0.704291254
+Andy Murray,Lorenzo Sonego,0.672681153
+Andy Murray,Alex De Minaur,0.534208298
+Andy Murray,Tommy Paul,0.580917999
+Andy Murray,Daniil Medvedev,0.057308257
+Tommy Paul,Carlos Alcaraz,0.208987653
+Tommy Paul,Yannick Hanfmann,0.643590033
+Tommy Paul,Karen Khachanov,0.465444803
+Tommy Paul,Lorenzo Musetti,0.56770739
+Tommy Paul,Lloyd Harris,0.6320149
+Tommy Paul,Tomas Martin Etcheverry,0.633804917
+Tommy Paul,Jan Lennard Struff,0.592358336
+Tommy Paul,Casper Ruud,0.29154481
+Tommy Paul,Holger Rune,0.521449208
+Tommy Paul,Felix Auger Aliassime,0.46023491
+Tommy Paul,Mackenzie Mcdonald,0.623225987
+Tommy Paul,Grigor Dimitrov,0.434530616
+Tommy Paul,Juncheng Sheng,0.649620235
+Tommy Paul,Yoshihito Nishioka,0.57733798
+Tommy Paul,Daniel Evans,0.52301988
+Tommy Paul,Jannik Sinner,0.150051817
+Tommy Paul,Alexander Zverev,0.384466872
+Tommy Paul,Diego Schwartzman,0.543947279
+Tommy Paul,Alejandro Davidovich Fokina,0.535129786
+Tommy Paul,Yi Zhou,0.649620235
+Tommy Paul,Matteo Arnaldi,0.643200591
+Tommy Paul,J J Wolf,0.619659901
+Tommy Paul,Nicolas Jarry,0.581399858
+Tommy Paul,Stefanos Tsitsipas,0.396508679
+Tommy Paul,Andrey Rublev,0.29571864
+Tommy Paul,Cameron Norrie,0.541191787
+Tommy Paul,Ugo Humbert,0.631486505
+Tommy Paul,Lorenzo Sonego,0.601110458
+Tommy Paul,Alex De Minaur,0.457534224
+Tommy Paul,Andy Murray,0.419082001
+Tommy Paul,Daniil Medvedev,0.048345551
+Daniil Medvedev,Jannik Sinner,0.814461857
+Daniil Medvedev,Andrey Rublev,0.88320908
+Daniil Medvedev,Carlos Alcaraz,0.901072636
+Daniil Medvedev,Stefanos Tsitsipas,0.908750489
+Daniil Medvedev,Casper Ruud,0.923647851
+Daniil Medvedev,Alexander Zverev,0.934046417
+Daniil Medvedev,Felix Auger Aliassime,0.935290232
+Daniil Medvedev,Andy Murray,0.942691743
+Daniil Medvedev,Alex De Minaur,0.943150476
+Daniil Medvedev,Grigor Dimitrov,0.943230495
+Daniil Medvedev,Karen Khachanov,0.950140625
+Daniil Medvedev,Tommy Paul,0.951654449
+Daniil Medvedev,Alejandro Davidovich Fokina,0.956102341
+Daniil Medvedev,Diego Schwartzman,0.956126764
+Daniil Medvedev,Cameron Norrie,0.957804531
+Daniil Medvedev,Daniel Evans,0.958974242
+Daniil Medvedev,Lorenzo Musetti,0.959086075
+Daniil Medvedev,Holger Rune,0.95970124
+Daniil Medvedev,Yoshihito Nishioka,0.962300688
+Daniil Medvedev,Lorenzo Sonego,0.963482022
+Daniil Medvedev,Jan Lennard Struff,0.965025738
+Daniil Medvedev,Nicolas Jarry,0.965214804
+Daniil Medvedev,Mackenzie Mcdonald,0.96717827
+Daniil Medvedev,J J Wolf,0.967211485
+Daniil Medvedev,Ugo Humbert,0.968337029
+Daniil Medvedev,Lloyd Harris,0.968373075
+Daniil Medvedev,Tomas Martin Etcheverry,0.968764156
+Daniil Medvedev,Yannick Hanfmann,0.96903269
+Daniil Medvedev,Matteo Arnaldi,0.969094276
+Daniil Medvedev,Juncheng Sheng,0.970053017
+Daniil Medvedev,Yi Zhou,0.970053017
